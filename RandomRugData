@@ -1,0 +1,801 @@
+,Invoice#,Date,Vendor,Collection,StyleNumber,SizeExact,SizeGroup,RedPrice,Discount,SalePrice,StyleGroup,StyleGroup2,DomColor,MinColor,ConstructionType,Material,Pad,CustomerID,S/O,InvoiceTotal
+0,12006,2022-04-11,DynamicRugs,Canberra,330077,10x14,10,1210.05,179.31,1030.74,Traditional,Medallion,Green,Red,tufted,Wool,1,6624931846,0,1030.74
+1,12017,2023-10-21,DynamicRugs,Oslo,669653,8x11,8,806.02,0.0,806.02,Contemporary,Heriz,Brown,Taupe,Printed,Polyester,1,3640045567,1,806.02
+2,12018,2024-08-29,Orian,Doha,777019,8 Round,8,841.93,111.56,730.37,Traditional,Solid,Brown,Red,tufted,Wool,1,4077175238,1,730.37
+3,12022,2024-07-23,Karastan,Moroni,389039,10x14,10,1214.3,210.89,1003.41,Transitional,Heriz,Brown,Navy,HM,Wool,0,1922803516,1,1003.41
+4,12026,2024-09-23,Dalyn,Kuala Lumpur,771563,12x15,12,2003.21,234.05,1769.16,Contemporary,Heriz,Gray,Ivory,tufted,Wool,0,1549432886,0,1769.16
+5,12030,2022-10-31,Surya,Singapore,709474,12x15,12,1879.49,368.75,1510.74,Traditional,Kazak,Navy,Green,MM,Polypropylene,1,8660252354,1,1510.74
+6,12035,2024-06-06,Rizzy,Brasilia,577914,12x15,12,1866.92,243.71,1623.21,Transitional,Abstract,Gold,Gray,MM,Polyester,0,3014297761,0,1623.21
+7,12037,2024-01-25,Karastan,Buenos Aires,406989,10x14,10,1244.03,157.92,1086.11,Traditional,Ornate,Navy,Gray,MM,Wool,1,3242967510,0,1086.11
+8,12041,2022-06-20,DynamicRugs,Kigali,969141,10x14,10,1154.44,222.71,931.73,Contemporary,Distressed,Blue,Green,HM,Wool,1,5106964747,1,931.73
+9,12045,2024-08-11,Karastan,Castries,502126,4x6,4,397.89,0.0,397.89,Contemporary,Distressed,Green,Beige,Printed,Polypropylene,0,6017019377,0,397.89
+10,12054,2022-09-12,Kas,Nairobi,161401,8x10,8,820.38,140.01,680.37,Transitional,Solid,Taupe,Red,MM,Wool,0,4408309861,0,680.37
+11,12056,2023-09-25,Karastan,Kingstown,494869,12x15,12,1914.73,364.87,1549.86,Transitional,Solid,Ivory,Blue,tufted,Wool,0,4101581406,1,1549.86
+12,12058,2022-07-02,Artisan,Helsinki,933114,12x15,12,1912.41,247.1,1665.31,Traditional,Oushak,Taupe,Ivory,HM,Wool,0,3749737810,1,1665.31
+13,12059,2024-07-30,Orian,Pretoria,386199,6'7x9'6,6,481.15,0.0,481.15,Contemporary,Heriz,Taupe,Ivory,HM,Wool,0,8858684258,0,481.15
+14,12062,2023-09-29,Surya,Victoria,762671,10x14,10,1192.27,226.75,965.52,Traditional,Kazak,Beige,Green,HM,Wool,0,3543551353,1,1365.67
+15,12062,2024-12-27,OrientalWeavers,Athens,657876,4x6,4,400.15,0.0,400.15,Traditional,Solid,Gray,Beige,MM,Wool,0,3543551353,1,1365.67
+16,12064,2024-05-04,Artisan,Amsterdam,643651,4x6,4,383.9,0.0,383.9,Contemporary,Distressed,Gray,Blue,HM,Wool,0,7025172845,0,383.9
+17,12066,2022-06-04,Karastan,Kingstown,680648,6'7x9'6,6,448.32,0.0,448.32,Transitional,Solid,Red,Brown,tufted,Wool,1,4678114004,0,448.32
+18,12102,2023-02-09,DynamicRugs,Harare,952495,8x10,8,735.23,115.44,619.79,Traditional,Kazak,Ivory,Red,Printed,Polypropylene,1,2103788315,1,619.79
+19,12110,2022-07-03,Kas,Kingston,391369,10x14,10,1298.36,172.63,1125.73,Traditional,Kazak,Beige,Red,Printed,Polypropylene,1,4206012743,1,1125.73
+20,12112,2022-01-25,Artisan,Zagreb,195942,12x15,12,1816.08,238.34,1577.74,Traditional,Kazak,Beige,Blue,HM,Wool,1,6279623634,1,1577.74
+21,12113,2024-12-01,Artisan,Riyadh,516152,12x15,12,1973.24,243.62,1729.62,Traditional,Medallion,Red,Ivory,HM,Wool,1,8964068985,0,1729.62
+22,12114,2022-07-28,OrientalWeavers,San Salvador,863421,8x10,8,744.17,0.0,744.17,Traditional,Geometric,Green,Ivory,MM,Wool,0,4548126464,0,744.17
+23,12117,2023-12-07,DynamicRugs,Ouagadougou,535949,4x6,4,367.52,0.0,367.52,Traditional,Ornate,Taupe,Gold,tufted,Wool,0,4717397670,0,367.52
+24,12121,2022-05-28,Rizzy,Vientiane,972440,12x15,12,1902.39,257.35,1645.04,Traditional,Geometric,Navy,Gray,MM,Wool,0,1279588258,0,1645.04
+25,12123,2022-04-03,DynamicRugs,Santo Domingo,533777,10x14,10,1228.04,229.03,999.01,Transitional,Heriz,Beige,Gold,MM,Polypropylene,0,5583776266,0,999.01
+26,12125,2024-12-05,DynamicRugs,Nuku'alofa,659001,4x6,4,389.94,0.0,389.94,Transitional,Geometric,Gold,Navy,MM,Wool,1,8491789592,1,389.94
+27,12130,2023-12-19,DynamicRugs,Oslo,313262,6'7x9'6,6,462.78,0.0,462.78,Transitional,Geometric,Beige,Brown,tufted,Wool,0,6035224758,0,462.78
+28,12133,2022-06-08,DynamicRugs,Oslo,394899,6'7x9'6,6,592.2,118.39,473.81,Transitional,Geometric,Brown,Taupe,tufted,Wool,0,1895560045,0,473.81
+29,12136,2023-05-19,Artisan,Podgorica,743606,6'7x9'6,6,480.67,0.0,480.67,Contemporary,Distressed,Green,Blue,HM,Wool,1,5372696906,0,480.67
+30,12139,2024-02-12,DynamicRugs,Tripoli,848825,6'7x9'6,6,442.67,0.0,442.67,Traditional,Geometric,Taupe,Green,HM,Wool,0,1270188930,0,1100.89
+31,12139,2024-06-04,Surya,Lusaka,300164,8x11,8,793.87,135.65,658.22,Contemporary,Abstract,Taupe,Blue,Printed,Polyester,1,1270188930,1,1100.89
+32,12141,2024-07-28,Rizzy,Berlin,163105,6'7x9'6,6,425.39,0.0,425.39,Traditional,Ornate,Taupe,Taupe,tufted,Wool,0,5806422017,1,425.39
+33,12142,2024-10-28,Artisan,Monrovia,940768,6'7x9'6,6,493.52,0.0,493.52,Traditional,Ornate,Red,Blue,HM,Wool,1,4308451437,0,493.52
+34,12145,2023-05-25,PersianWeavers,Skopje,782377,12x15,12,1915.79,378.74,1537.05,Transitional,Geometric,Blue,Gray,tufted,Wool,1,4088407812,1,1537.05
+35,12147,2022-12-27,DynamicRugs,Harare,486682,6'7x9'6,6,527.63,0.0,527.63,Traditional,Kazak,Gold,Blue,tufted,Wool,0,1141896587,0,527.63
+36,12157,2022-10-01,Artisan,Monrovia,908413,10x14,10,1171.07,214.26,956.81,Traditional,Kazak,Blue,Red,MM,Wool,1,7498431228,1,956.81
+37,12160,2023-12-01,Dalyn,Seoul,572129,4x6,4,238.16,0.0,238.16,Contemporary,Distressed,Navy,Ivory,tufted,Wool,1,3693108060,0,238.16
+38,12171,2023-11-10,Dalyn,Kuala Lumpur,470189,8x11,8,795.34,0.0,795.34,Traditional,Abstract,Ivory,Red,HM,Wool,0,3070263405,0,795.34
+39,12173,2022-09-04,Karastan,La Paz,879913,8x10,8,767.7,0.0,767.7,Traditional,Kazak,Blue,Navy,HM,Wool,1,7319242537,1,1248.85
+40,12173,2024-06-03,Orian,Manila,441668,6'7x9'6,6,481.15,0.0,481.15,Traditional,Distressed,Beige,Gold,tufted,Wool,0,7319242537,0,1248.85
+41,12174,2022-09-02,DynamicRugs,Nuku'alofa,116427,10x14,10,1257.56,153.47,1104.09,Traditional,Medallion,Navy,Taupe,HM,Wool,0,7346469839,0,1545.6599999999999
+42,12174,2023-03-18,PersianWeavers,Khartoum,304016,6'7x9'6,6,441.57,0.0,441.57,Transitional,Geometric,Gold,Gray,tufted,Wool,0,7346469839,0,1545.6599999999999
+43,12175,2022-11-11,Couristan,Sarajevo,306075,10x14,10,1157.4,216.37,941.03,Traditional,Oushak,Beige,Taupe,tufted,Wool,1,3996841912,0,941.03
+44,12176,2022-05-06,Karastan,Castries,792288,8x10,8,814.23,0.0,814.23,Transitional,Solid,Beige,Taupe,Printed,Polypropylene,1,8892661981,0,814.23
+45,12181,2023-11-16,Karastan,Lome,558388,6'7x9'6,6,541.64,0.0,541.64,Transitional,Distressed,Green,Blue,HM,Wool,0,8496455834,1,541.64
+46,12187,2024-11-08,Kas,Kingston,774795,8x10,8,797.91,101.91,696.0,Traditional,Kazak,Ivory,Navy,HM,Wool,1,2615264722,0,696.0
+47,12190,2024-08-20,PersianWeavers,Skopje,634758,10x14,10,1188.69,232.76,955.93,Traditional,Ornate,Gray,Blue,MM,Polypropylene,1,9968310086,1,955.93
+48,12193,2023-03-27,PersianWeavers,Muscat,931862,12x15,12,1971.4,215.41,1755.99,Transitional,Distressed,Navy,Brown,tufted,Wool,1,6109501590,1,2225.42
+49,12193,2023-09-15,Dalyn,Bucharest,479510,6'7x9'6,6,469.43,0.0,469.43,Contemporary,Distressed,Gold,Taupe,Printed,Polyester,0,6109501590,0,2225.42
+50,12197,2024-09-29,Kas,Vilnius,478342,6'7x9'6,6,518.92,0.0,518.92,Traditional,Ornate,Taupe,Brown,Printed,Polyester,0,7128018349,1,518.92
+51,12200,2022-04-21,DynamicRugs,Ankara,270580,8x11,8,843.63,160.52,683.11,Contemporary,Solid,Blue,Gray,MM,Polyester,1,6557011149,1,1662.65
+52,12200,2023-02-24,PersianWeavers,Islamabad,694455,10x14,10,1209.4,229.86,979.54,Traditional,Geometric,Red,Navy,Printed,Polypropylene,1,6557011149,1,1662.65
+53,12203,2024-08-07,OrientalWeavers,Nassau,998754,4x6,4,432.01,0.0,432.01,Traditional,Kazak,Taupe,Red,HM,Wool,1,3915470053,0,432.01
+54,12204,2024-10-01,DynamicRugs,Harare,309773,6'7x9'6,6,543.73,0.0,543.73,Transitional,Solid,Ivory,Blue,tufted,Wool,0,6597842072,0,543.73
+55,12207,2023-01-07,Dalyn,Port-au-Prince,225136,4x6,4,295.38,0.0,295.38,Contemporary,Geometric,Blue,Brown,tufted,Wool,0,9213056530,1,295.38
+56,12210,2022-06-01,Couristan,Asuncion,543731,8x11,8,862.57,100.71,761.86,Traditional,Ornate,Brown,Gray,Printed,Polyester,0,9178318051,1,761.86
+57,12216,2023-02-01,Kas,Nairobi,756776,10x14,10,1255.88,235.02,1020.86,Traditional,Heriz,Gold,Blue,tufted,Wool,0,3117412123,0,1020.86
+58,12217,2022-11-10,Dalyn,Astana,182235,4x6,4,316.78,0.0,316.78,Traditional,Oushak,Gold,Blue,HM,Wool,1,3046401629,1,316.78
+59,12220,2024-02-09,Surya,Victoria,119837,12x15,12,1888.05,214.32,1673.73,Traditional,Oushak,Green,Blue,HM,Wool,1,8886259731,0,1673.73
+60,12221,2024-03-11,Couristan,Lima,817062,4x6,4,302.85,0.0,302.85,Traditional,Distressed,Brown,Brown,MM,Polyester,0,4253836414,0,302.85
+61,12228,2024-12-25,Rizzy,Vientiane,962272,12x15,12,1851.18,221.3,1629.88,Traditional,Medallion,Gold,Beige,tufted,Wool,1,8967537600,0,1629.88
+62,12235,2022-03-10,Karastan,Honiara,898576,12x15,12,1975.12,310.67,1664.45,Traditional,Medallion,Gold,Ivory,Printed,Polyester,1,5210562477,0,1664.45
+63,12237,2023-10-04,Orian,Ashgabat,442529,10x14,10,1235.46,174.71,1060.75,Contemporary,Heriz,Blue,Beige,HM,Wool,0,6974611027,1,1060.75
+64,12243,2022-11-26,DynamicRugs,Djibouti,184552,6'7x9'6,6,439.65,0.0,439.65,Contemporary,Solid,Brown,Brown,tufted,Wool,1,4430588908,0,439.65
+65,12244,2022-11-30,Orian,Andorra la Vella,456307,8x11,8,746.64,129.09,617.55,Traditional,Ornate,Taupe,Taupe,tufted,Wool,0,5139520200,1,617.55
+66,12260,2023-06-07,Karastan,Buenos Aires,981536,10x14,10,1095.66,132.46,963.2,Traditional,Ornate,Gray,Blue,HM,Wool,0,2407605062,1,963.2
+67,12265,2024-10-23,Couristan,Panama City,458370,12x15,12,1950.09,371.87,1578.22,Traditional,Abstract,Blue,Navy,MM,Wool,1,7388941014,1,1578.22
+68,12268,2024-03-10,Couristan,Valletta,150021,6'7x9'6,6,504.44,0.0,504.44,Traditional,Oushak,Ivory,Gold,MM,Polyester,0,4572221230,1,504.44
+69,12271,2023-12-12,OrientalWeavers,Paris,704293,12x15,12,1787.5,257.86,1529.64,Traditional,Medallion,Gold,Beige,MM,Wool,1,9285516501,0,1529.64
+70,12277,2022-04-14,Kas,Minsk,745165,6'7x9'6,6,585.82,0.0,585.82,Transitional,Geometric,Taupe,Gray,MM,Wool,1,3141101660,0,585.82
+71,12279,2022-11-19,Artisan,Damascus,567896,4x6,4,344.69,0.0,344.69,Traditional,Medallion,Beige,Gold,HM,Wool,0,9480801314,0,1390.99
+72,12279,2024-05-07,Dalyn,Astana,621445,10x14,10,1163.39,117.09,1046.3,Traditional,Medallion,Brown,Blue,HM,Wool,1,9480801314,0,1390.99
+73,12282,2024-11-10,Dalyn,Kuala Lumpur,364970,6'7x9'6,6,473.02,0.0,473.02,Contemporary,Solid,Gray,Blue,tufted,Wool,0,6791005076,0,473.02
+74,12284,2023-10-21,Artisan,Monrovia,255419,10x14,10,1135.13,164.23,970.9,Traditional,Ornate,Blue,Red,MM,Wool,1,1160750253,1,970.9
+75,12295,2024-04-13,Karastan,Lome,199440,8x11,8,867.65,155.01,712.64,Traditional,Kazak,Green,Gold,HM,Wool,0,1778829285,0,1015.21
+76,12295,2024-11-11,Surya,Havana,934897,4x6,4,302.57,0.0,302.57,Transitional,Abstract,Ivory,Gray,MM,Polyester,1,1778829285,0,1015.21
+77,12298,2023-05-01,PersianWeavers,Muscat,905137,8 Round,8,854.91,169.41,685.5,Transitional,Heriz,Gray,Navy,HM,Wool,1,7182277465,1,685.5
+78,12303,2023-04-30,Couristan,Algiers,475981,8x10,8,832.97,103.65,729.32,Traditional,Kazak,Red,Taupe,MM,Wool,0,7823491557,0,729.32
+79,12311,2022-06-19,Orian,Brussels,400347,8x10,8,715.2,108.9,606.3,Traditional,Oushak,Red,Navy,HM,Wool,1,4862239986,0,2310.37
+80,12311,2022-08-01,Kas,Guatemala City,139273,12x15,12,1941.54,237.47,1704.07,Traditional,Oushak,Gold,Gray,MM,Polypropylene,0,4862239986,0,2310.37
+81,12314,2022-02-03,DynamicRugs,Tirana,744745,8x11,8,678.23,0.0,678.23,Traditional,Ornate,Gray,Navy,HM,Wool,0,5311555228,1,678.23
+82,12318,2024-07-12,Karastan,La Paz,430356,12x15,12,1931.11,291.2,1639.91,Transitional,Heriz,Gold,Taupe,Printed,Polypropylene,1,1174529214,0,1639.91
+83,12320,2023-01-02,Orian,Andorra la Vella,365918,12x15,12,1959.26,322.73,1636.53,Contemporary,Distressed,Brown,Gray,Printed,Polyester,0,4895512881,0,1636.53
+84,12334,2022-02-06,OrientalWeavers,Nicosia,633324,10x14,10,1237.03,161.86,1075.17,Traditional,Medallion,Brown,Ivory,HM,Wool,0,6961150455,1,1075.17
+85,12338,2024-01-07,OrientalWeavers,Kampala,147688,8x11,8,861.29,144.5,716.79,Traditional,Abstract,Brown,Taupe,Printed,Polyester,0,7918407457,1,716.79
+86,12340,2024-11-12,Artisan,Riyadh,917433,6'7x9'6,6,403.1,0.0,403.1,Traditional,Heriz,Beige,Taupe,tufted,Wool,1,1392575669,1,403.1
+87,12346,2023-09-27,Orian,Pretoria,866317,8x10,8,903.58,0.0,903.58,Transitional,Distressed,Blue,Blue,HM,Wool,1,6316169451,1,903.58
+88,12349,2024-11-06,Artisan,Monrovia,240660,6'7x9'6,6,535.46,0.0,535.46,Traditional,Ornate,Brown,Ivory,MM,Wool,0,7690173372,0,535.46
+89,12353,2022-01-10,Karastan,Castries,269785,6'7x9'6,6,529.55,0.0,529.55,Contemporary,Heriz,Gray,Green,MM,Polyester,0,3099845006,1,529.55
+90,12355,2022-11-24,Kas,Nairobi,990509,8 Round,8,817.28,125.71,691.57,Transitional,Heriz,Beige,Red,tufted,Wool,0,8676221647,0,691.57
+91,12357,2024-01-10,Orian,Abuja,799454,12x15,12,1855.08,287.24,1567.84,Traditional,Ornate,Taupe,Gold,MM,Polyester,0,6812744981,0,1567.84
+92,12363,2023-06-07,Orian,Quito,139743,4x6,4,347.15,0.0,347.15,Traditional,Ornate,Gold,Beige,Printed,Polyester,0,1525170232,0,347.15
+93,12366,2023-05-17,Orian,Brussels,925434,10x14,10,1192.89,219.14,973.75,Traditional,Ornate,Ivory,Brown,HM,Wool,0,1200587647,0,973.75
+94,12368,2023-08-04,Karastan,New Delhi,869391,6'7x9'6,6,507.93,0.0,507.93,Contemporary,Solid,Gold,Blue,Printed,Polyester,1,2572455472,0,507.93
+95,12373,2022-04-19,Dalyn,Pyongyang,945338,10x14,10,1116.31,123.12,993.19,Transitional,Heriz,Green,Gray,HM,Wool,0,5277833690,1,2546.95
+96,12373,2023-12-28,Couristan,Asuncion,837350,12x15,12,1860.48,306.72,1553.76,Contemporary,Solid,Blue,Gold,MM,Polypropylene,0,5277833690,0,2546.95
+97,12377,2024-02-26,Dalyn,Tunis,880672,4x6,4,415.39,0.0,415.39,Traditional,Heriz,Taupe,Red,tufted,Wool,1,2485117265,0,878.27
+98,12377,2024-06-30,Kas,Kingston,377851,6'7x9'6,6,462.88,0.0,462.88,Traditional,Solid,Gold,Beige,tufted,Wool,0,2485117265,1,878.27
+99,12379,2023-10-17,Dalyn,Paramaribo,680441,12x15,12,1851.37,279.75,1571.62,Traditional,Kazak,Gold,Blue,Printed,Polypropylene,0,7366868716,1,1571.62
+100,12386,2023-06-09,Orian,Abuja,566556,12x15,12,1854.2,187.17,1667.03,Traditional,Ornate,Beige,Gray,Printed,Polyester,0,4396972130,0,1667.03
+101,12392,2023-03-21,Karastan,San Jose,587763,6'7x9'6,6,454.74,0.0,454.74,Traditional,Geometric,Beige,Beige,Printed,Polypropylene,0,6756631575,1,454.74
+102,12394,2024-03-18,Orian,Pretoria,785485,10x14,10,1196.36,196.72,999.64,Traditional,Solid,Red,Gold,MM,Wool,1,6566021488,0,999.64
+103,12395,2024-07-17,PersianWeavers,Riga,486153,6'7x9'6,6,506.21,0.0,506.21,Traditional,Kazak,Ivory,Green,tufted,Wool,1,6639163103,0,506.21
+104,12399,2024-08-26,Orian,Manila,773310,6'7x9'6,6,509.25,0.0,509.25,Traditional,Medallion,Brown,Gold,HM,Wool,0,4394960821,1,509.25
+105,12401,2022-09-06,OrientalWeavers,Yerevan,777687,10x14,10,1223.22,219.27,1003.95,Contemporary,Abstract,Navy,Taupe,MM,Polyester,0,1514949314,0,1003.95
+106,12402,2024-12-06,Surya,Victoria,906846,6'7x9'6,6,557.48,0.0,557.48,Contemporary,Solid,Gray,Blue,HM,Wool,1,7733161942,0,557.48
+107,12405,2022-01-02,Kas,Guatemala City,944159,4x6,4,379.31,0.0,379.31,Traditional,Ornate,Gold,Green,HM,Wool,0,4846646589,0,379.31
+108,12408,2024-04-19,Couristan,Banjul,645109,6'7x9'6,6,503.53,0.0,503.53,Contemporary,Geometric,Gray,Brown,Printed,Polyester,0,3261884057,1,503.53
+109,12414,2023-05-13,Kas,Vilnius,144074,6'7x9'6,6,510.28,0.0,510.28,Traditional,Solid,Beige,Red,HM,Wool,1,5171097544,1,510.28
+110,12417,2024-08-13,Karastan,Buenos Aires,576502,10x14,10,1139.11,123.08,1016.03,Traditional,Kazak,Green,Gray,HM,Wool,1,5622789478,0,1016.03
+111,12420,2023-08-20,PersianWeavers,Skopje,151409,10x14,10,1132.01,164.17,967.84,Traditional,Geometric,Navy,Beige,MM,Polyester,1,4763680218,1,967.84
+112,12422,2022-10-28,Karastan,Honiara,684805,10x14,10,1194.32,153.0,1041.32,Traditional,Kazak,Beige,Brown,tufted,Wool,0,8632246951,0,1041.32
+113,12424,2022-06-11,Artisan,Amsterdam,837745,12x15,12,1908.83,298.16,1610.67,Traditional,Kazak,Beige,Gray,MM,Polypropylene,0,5249076839,1,1610.67
+114,12428,2024-04-26,Orian,Andorra la Vella,400118,8 Round,8,827.46,117.37,710.09,Traditional,Heriz,Green,Green,HM,Wool,0,3644881982,1,710.09
+115,12429,2023-11-17,Kas,Vilnius,775078,12x15,12,1885.36,225.59,1659.77,Transitional,Solid,Blue,Navy,HM,Wool,0,8115144408,1,1659.77
+116,12431,2022-05-11,Kas,Rome,282518,6'7x9'6,6,476.56,0.0,476.56,Traditional,Ornate,Ivory,Gray,HM,Wool,0,6976964532,0,476.56
+117,12433,2022-08-28,Karastan,Roseau,403033,6'7x9'6,6,483.49,0.0,483.49,Transitional,Geometric,Gold,Navy,MM,Polypropylene,1,1643272311,0,2173.5
+118,12433,2024-09-13,Artisan,Moscow,544962,12x15,12,1893.89,203.88,1690.01,Transitional,Heriz,Ivory,Ivory,HM,Wool,0,1643272311,1,2173.5
+119,12439,2023-02-25,DynamicRugs,Tirana,802500,10x14,10,1114.29,212.88,901.41,Traditional,Ornate,Beige,Blue,tufted,Wool,0,7797009197,0,901.41
+120,12444,2023-07-19,Surya,Victoria,992767,10x14,10,1246.5,191.03,1055.47,Traditional,Medallion,Gray,Red,HM,Wool,0,6457456779,0,1055.47
+121,12461,2022-02-24,Artisan,Amsterdam,669194,6'7x9'6,6,606.56,0.0,606.56,Traditional,Abstract,Gold,Brown,HM,Wool,0,1324549623,0,606.56
+122,12468,2023-04-15,DynamicRugs,Oslo,945147,8x11,8,768.14,136.67,631.47,Traditional,Heriz,Taupe,Brown,Printed,Polyester,1,3350470603,1,631.47
+123,12469,2023-02-16,Artisan,Amsterdam,370684,12x15,12,1886.42,369.69,1516.73,Traditional,Solid,Blue,Gray,tufted,Wool,0,2047672045,0,1516.73
+124,12470,2022-09-06,Kas,Nairobi,782541,8x11,8,807.27,117.86,689.41,Traditional,Oushak,Navy,Gold,HM,Wool,1,2236260753,1,689.41
+125,12472,2024-09-03,Dalyn,Beijing,638576,6'7x9'6,6,483.19,0.0,483.19,Contemporary,Heriz,Brown,Gray,HM,Wool,1,4778612387,0,483.19
+126,12481,2022-04-13,Artisan,Monrovia,642537,4x6,4,368.85,0.0,368.85,Contemporary,Abstract,Blue,Taupe,HM,Wool,0,9725856768,0,368.85
+127,12486,2022-03-26,Couristan,Banjul,313055,8x10,8,734.17,0.0,734.17,Traditional,Medallion,Brown,Gold,MM,Polypropylene,1,9937172217,1,734.17
+128,12487,2024-08-10,PersianWeavers,Port Louis,828067,12x15,12,1898.73,299.11,1599.62,Transitional,Heriz,Brown,Red,Printed,Polypropylene,0,6077248574,0,1599.62
+129,12497,2022-02-25,Orian,Andorra la Vella,176311,10x14,10,1257.77,222.7,1035.07,Contemporary,Heriz,Gold,Navy,Printed,Polyester,1,8069463997,1,1035.07
+130,12498,2023-04-28,DynamicRugs,Tripoli,809893,8x10,8,794.21,120.21,674.0,Traditional,Ornate,Ivory,Beige,HM,Wool,0,7015767903,0,674.0
+131,12505,2023-02-08,Orian,Dublin,714212,4x6,4,344.83,0.0,344.83,Traditional,Oushak,Green,Gray,Printed,Polyester,0,6284920892,0,344.83
+132,12508,2023-10-20,DynamicRugs,Reykjavik,180327,8x11,8,736.78,145.65,591.13,Contemporary,Solid,Gold,Gold,HM,Wool,0,8442206659,1,591.13
+133,12510,2022-10-03,Dalyn,Seoul,267746,6'7x9'6,6,531.53,0.0,531.53,Traditional,Geometric,Gray,Ivory,HM,Wool,1,3827057493,0,531.53
+134,12525,2023-04-18,Couristan,Monaco,415174,8x10,8,815.0,0.0,815.0,Traditional,Ornate,Gold,Brown,HM,Wool,0,1695989654,0,815.0
+135,12529,2024-12-26,Karastan,Buenos Aires,403413,10x14,10,1173.28,233.4,939.88,Traditional,Heriz,Gray,Ivory,HM,Wool,1,3840771142,1,939.88
+136,12536,2022-06-05,DynamicRugs,Oslo,302311,12x15,12,1944.84,344.87,1599.97,Transitional,Abstract,Gray,Gold,MM,Polypropylene,1,2004922140,0,1939.88
+137,12536,2023-12-20,Couristan,Monaco,341195,4x6,4,339.91,0.0,339.91,Traditional,Kazak,Ivory,Beige,HM,Wool,0,2004922140,0,1939.88
+138,12537,2024-08-18,Couristan,Monaco,152188,4x6,4,285.2,0.0,285.2,Traditional,Ornate,Gold,Brown,MM,Wool,1,7867328705,0,285.2
+139,12541,2024-07-07,Dalyn,Seoul,164209,12x15,12,1924.51,264.36,1660.15,Traditional,Distressed,Beige,Green,HM,Wool,1,9988524176,0,1660.15
+140,12544,2024-06-29,Orian,Manila,469190,4x6,4,391.24,0.0,391.24,Contemporary,Abstract,Beige,Blue,HM,Wool,1,6604940850,0,391.24
+141,12546,2023-11-10,Couristan,Banjul,761223,12x15,12,1914.1,328.86,1585.24,Transitional,Distressed,Blue,Gray,HM,Wool,1,5332278485,0,1585.24
+142,12550,2023-01-02,Rizzy,Berlin,433505,8x11,8,765.93,118.77,647.16,Traditional,Oushak,Brown,Gray,tufted,Wool,1,6614935040,1,1596.33
+143,12550,2023-08-12,Couristan,Taipei,741402,10x14,10,1120.63,171.46,949.17,Transitional,Heriz,Navy,Navy,Printed,Polypropylene,0,6614935040,0,1596.33
+144,12556,2023-07-04,Dalyn,Pyongyang,210646,8x11,8,756.98,122.44,634.54,Traditional,Oushak,Blue,Green,HM,Wool,0,8935404415,0,634.54
+145,12566,2023-06-30,Kas,Mogadishu,189088,8x11,8,852.66,140.27,712.39,Contemporary,Distressed,Beige,Gray,Printed,Polypropylene,0,9506426764,0,712.39
+146,12577,2023-10-06,Couristan,Taipei,530744,12x15,12,1947.33,339.28,1608.05,Traditional,Medallion,Taupe,Navy,Printed,Polyester,1,3581905592,1,1608.05
+147,12579,2022-07-25,Couristan,Sarajevo,252039,8x11,8,905.17,139.06,766.11,Transitional,Abstract,Red,Gold,HM,Wool,0,2981808566,1,766.11
+148,12582,2024-01-02,OrientalWeavers,Ulaanbaatar,260909,8x11,8,729.68,126.23,603.45,Traditional,Medallion,Gray,Red,Printed,Polyester,0,6253965441,1,603.45
+149,12594,2024-05-21,Rizzy,Conakry,582577,10x14,10,1159.74,191.86,967.88,Traditional,Kazak,Ivory,Navy,tufted,Wool,0,2909747840,1,967.88
+150,12595,2024-06-07,Surya,Victoria,772529,12x15,12,1846.14,267.5,1578.64,Traditional,Medallion,Blue,Gold,MM,Wool,1,2876728055,1,1578.64
+151,12598,2022-06-13,Dalyn,Tunis,654014,6'7x9'6,6,529.9,101.16,428.74,Traditional,Oushak,Beige,Red,tufted,Wool,0,4991766678,0,892.75
+152,12598,2023-07-23,DynamicRugs,Harare,690855,6'7x9'6,6,464.01,0.0,464.01,Contemporary,Geometric,Green,Green,tufted,Wool,0,4991766678,0,892.75
+153,12600,2023-09-19,DynamicRugs,Majuro,352583,4x6,4,260.46,0.0,260.46,Contemporary,Heriz,Beige,Green,Printed,Polypropylene,0,7614642601,1,260.46
+154,12601,2023-11-26,Kas,Managua,846832,6'7x9'6,6,480.59,0.0,480.59,Traditional,Ornate,Blue,Navy,tufted,Wool,1,9619606589,1,480.59
+155,12605,2022-05-22,PersianWeavers,Khartoum,110330,6'7x9'6,6,528.71,0.0,528.71,Traditional,Oushak,Ivory,Green,Printed,Polypropylene,0,1683233155,0,528.71
+156,12606,2022-07-25,OrientalWeavers,Gaborone,908451,10x14,10,1240.89,205.26,1035.63,Traditional,Oushak,Gray,Blue,HM,Wool,0,4068000624,1,1035.63
+157,12623,2023-06-07,OrientalWeavers,Kampala,989704,6'7x9'6,6,536.63,0.0,536.63,Traditional,Oushak,Ivory,Blue,MM,Polypropylene,0,8181535071,0,536.63
+158,12625,2022-09-11,PersianWeavers,Skopje,234858,12x15,12,1888.98,324.12,1564.86,Contemporary,Geometric,Beige,Ivory,Printed,Polyester,1,6548152618,0,1564.86
+159,12634,2022-10-12,Kas,Mogadishu,391113,4x6,4,322.72,0.0,322.72,Traditional,Medallion,Ivory,Blue,HM,Wool,1,9045639479,0,683.86
+160,12634,2024-07-12,Kas,Kuwait City,631912,4x6,4,361.14,0.0,361.14,Traditional,Medallion,Gold,Gold,Printed,Polypropylene,0,9045639479,0,683.86
+161,12637,2023-05-10,Orian,Dublin,707719,8x10,8,830.13,161.88,668.25,Traditional,Ornate,Gold,Gray,tufted,Wool,1,4401369227,1,668.25
+162,12647,2022-05-08,Karastan,Moroni,966969,4x6,4,383.11,0.0,383.11,Traditional,Oushak,Brown,Gray,MM,Polyester,1,7836834250,1,383.11
+163,12656,2023-01-12,PersianWeavers,Tashkent,122701,6'7x9'6,6,463.36,0.0,463.36,Contemporary,Geometric,Taupe,Green,HM,Wool,0,2883036294,0,463.36
+164,12659,2023-04-10,Orian,Luanda,715059,8x11,8,831.57,143.08,688.49,Traditional,Kazak,Gray,Gold,MM,Wool,0,4598318241,1,688.49
+165,12660,2023-03-07,Artisan,Amsterdam,873647,6'7x9'6,6,496.29,0.0,496.29,Traditional,Medallion,Gray,Ivory,HM,Wool,1,1136622971,1,496.29
+166,12661,2023-11-15,Orian,Pretoria,511938,8x11,8,847.54,111.08,736.46,Transitional,Geometric,Green,Red,HM,Wool,1,7861160692,0,736.46
+167,12666,2022-03-24,DynamicRugs,Rabat,766353,8x10,8,813.52,151.65,661.87,Traditional,Oushak,Green,Gold,Printed,Polypropylene,0,9451123320,0,661.87
+168,12671,2024-07-06,Rizzy,Vientiane,428868,8 Round,8,727.98,116.47,611.51,Transitional,Distressed,Gold,Beige,tufted,Wool,0,3835791816,1,611.51
+169,12673,2023-04-23,Kas,Kuwait City,231730,6'7x9'6,6,531.47,0.0,531.47,Transitional,Abstract,Green,Gray,MM,Wool,1,4422342576,1,531.47
+170,12674,2023-10-29,Orian,Ashgabat,627059,6'7x9'6,6,505.87,0.0,505.87,Traditional,Kazak,Gold,Gray,Printed,Polypropylene,1,7546743509,1,1160.3400000000001
+171,12674,2024-02-12,Karastan,Buenos Aires,637301,8x11,8,770.49,116.02,654.47,Traditional,Solid,Brown,Blue,tufted,Wool,0,7546743509,1,1160.3400000000001
+172,12675,2024-01-25,DynamicRugs,Majuro,287820,8x11,8,781.44,143.97,637.47,Traditional,Ornate,Ivory,Red,tufted,Wool,1,5415138001,0,637.47
+173,12676,2023-01-27,PersianWeavers,Bridgetown,746558,6'7x9'6,6,421.58,0.0,421.58,Traditional,Oushak,Gold,Gray,Printed,Polypropylene,1,3807526019,0,421.58
+174,12677,2023-08-27,Orian,Doha,677718,10x14,10,1249.42,245.25,1004.17,Traditional,Kazak,Ivory,Blue,Printed,Polypropylene,0,2140465589,0,1004.17
+175,12678,2023-11-21,Orian,Jakarta,361095,4x6,4,358.56,0.0,358.56,Traditional,Ornate,Green,Blue,tufted,Wool,0,8470904293,1,358.56
+176,12684,2024-08-04,PersianWeavers,Windhoek,216345,6'7x9'6,6,540.58,0.0,540.58,Transitional,Solid,Beige,Navy,HM,Wool,1,9256214163,0,540.58
+177,12686,2023-07-06,Surya,Victoria,569965,12x15,12,1901.04,282.83,1618.21,Traditional,Ornate,Green,Brown,HM,Wool,0,4751273606,1,1618.21
+178,12687,2023-02-13,Karastan,Bratislava,226002,6'7x9'6,6,541.76,0.0,541.76,Traditional,Kazak,Beige,Gray,HM,Wool,0,7557687022,1,541.76
+179,12689,2022-04-22,Artisan,Amsterdam,847021,8x11,8,670.52,114.45,556.07,Traditional,Oushak,Blue,Green,Printed,Polypropylene,0,7603414255,1,1535.0700000000002
+180,12689,2024-02-01,PersianWeavers,Dakar,385580,10x14,10,1135.83,156.83,979.0,Contemporary,Solid,Green,Beige,Printed,Polyester,0,7603414255,0,1535.0700000000002
+181,12690,2024-08-30,PersianWeavers,Port Louis,734764,10x14,10,1143.25,119.35,1023.9,Traditional,Kazak,Brown,Green,Printed,Polypropylene,0,7786041454,0,1023.9
+182,12693,2024-06-22,Dalyn,Ljubljana,532646,4x6,4,349.51,0.0,349.51,Traditional,Ornate,Red,Ivory,Printed,Polypropylene,1,6356099327,1,349.51
+183,12700,2024-05-31,OrientalWeavers,Luxembourg,422391,4x6,4,284.25,0.0,284.25,Transitional,Abstract,Gold,Beige,Printed,Polyester,1,4489892954,0,284.25
+184,12702,2022-08-19,Surya,Stockholm,610845,4x6,4,293.31,0.0,293.31,Contemporary,Abstract,Gold,Red,MM,Polyester,1,8000267059,1,293.31
+185,12703,2023-04-18,OrientalWeavers,Nassau,947715,10x14,10,1159.83,198.77,961.06,Contemporary,Abstract,Green,Taupe,Printed,Polypropylene,1,3862663645,1,1722.25
+186,12703,2023-11-28,Karastan,Castries,439929,8x11,8,761.19,0.0,761.19,Traditional,Geometric,Ivory,Beige,Printed,Polyester,0,3862663645,1,1722.25
+187,12710,2022-03-18,Artisan,Moscow,905020,12x15,12,1931.9,357.27,1574.63,Traditional,Medallion,Blue,Blue,HM,Wool,1,5208798670,1,1574.63
+188,12713,2023-07-28,Couristan,Asuncion,866287,10x14,10,1273.1,184.8,1088.3,Contemporary,Solid,Navy,Gold,HM,Wool,0,6548560900,0,1088.3
+189,12726,2022-03-13,Rizzy,Baghdad,478644,8x10,8,863.2,146.94,716.26,Traditional,Medallion,Ivory,Green,tufted,Wool,0,2713196207,0,716.26
+190,12731,2022-12-13,PersianWeavers,Riga,243327,4x6,4,422.32,0.0,422.32,Traditional,Oushak,Beige,Ivory,MM,Polypropylene,1,8204169201,0,422.32
+191,12733,2023-12-04,Dalyn,Bucharest,615263,12x15,12,1901.61,204.96,1696.65,Contemporary,Abstract,Gold,Gold,tufted,Wool,1,6380744462,1,1696.65
+192,12735,2022-11-21,Dalyn,Beijing,852838,8x10,8,813.71,0.0,813.71,Transitional,Distressed,Gray,Navy,tufted,Wool,1,1540132308,1,813.71
+193,12736,2024-06-12,Kas,Rome,693282,10x14,10,1146.21,127.12,1019.09,Traditional,Oushak,Gold,Green,tufted,Wool,0,2681055172,1,1019.09
+194,12738,2024-07-02,Surya,Havana,925435,6'7x9'6,6,504.78,0.0,504.78,Transitional,Geometric,Navy,Gray,MM,Wool,0,4819012277,0,504.78
+195,12742,2024-03-26,Couristan,Valletta,368791,6'7x9'6,6,512.21,0.0,512.21,Traditional,Heriz,Blue,Green,MM,Polypropylene,0,1881473973,0,512.21
+196,12744,2022-04-18,Surya,Stockholm,218635,10x14,10,1175.42,156.04,1019.38,Traditional,Ornate,Ivory,Gray,HM,Wool,1,7546326587,1,1019.38
+197,12752,2022-08-18,OrientalWeavers,Phnom Penh,206383,4x6,4,311.95,0.0,311.95,Traditional,Ornate,Ivory,Gold,tufted,Wool,0,1933647586,0,311.95
+198,12754,2022-02-25,Kas,Mogadishu,505618,8x11,8,808.77,0.0,808.77,Traditional,Ornate,Taupe,Gray,MM,Polyester,1,1395633406,0,2398.65
+199,12754,2022-08-29,PersianWeavers,Georgetown,551492,12x15,12,1891.56,301.68,1589.88,Contemporary,Heriz,Gold,Beige,tufted,Wool,0,1395633406,0,2398.65
+200,12756,2023-09-24,DynamicRugs,Ankara,311918,6'7x9'6,6,528.97,0.0,528.97,Transitional,Geometric,Ivory,Gold,tufted,Wool,1,3276527987,0,1065.28
+201,12756,2024-07-28,Dalyn,Seoul,304210,6'7x9'6,6,536.31,0.0,536.31,Traditional,Kazak,Green,Navy,tufted,Wool,0,3276527987,1,1065.28
+202,12758,2024-12-21,Orian,Quito,716879,8x11,8,749.17,110.1,639.07,Transitional,Solid,Taupe,Brown,HM,Wool,0,3472953660,1,639.07
+203,12760,2024-03-13,Karastan,Moroni,917964,10x14,10,1217.25,138.28,1078.97,Contemporary,Solid,Gold,Ivory,Printed,Polypropylene,0,5903843996,1,1078.97
+204,12761,2024-02-14,Dalyn,Prague,238487,6'7x9'6,6,480.78,0.0,480.78,Traditional,Medallion,Ivory,Navy,HM,Wool,1,3568554470,1,2172.9700000000003
+205,12761,2024-03-23,DynamicRugs,Santo Domingo,864837,12x15,12,1939.47,247.28,1692.19,Transitional,Heriz,Ivory,Green,HM,Wool,0,3568554470,0,2172.9700000000003
+206,12766,2024-02-16,Karastan,Honiara,828009,6'7x9'6,6,593.23,113.71,479.52,Traditional,Kazak,Green,Green,Printed,Polypropylene,1,4767677633,0,479.52
+207,12767,2024-05-10,Karastan,Roseau,427686,4x6,4,345.83,0.0,345.83,Traditional,Ornate,Brown,Taupe,MM,Polyester,1,2278158446,0,345.83
+208,12777,2022-06-30,Orian,Brussels,857189,12x15,12,1859.14,282.1,1577.04,Traditional,Oushak,Taupe,Gold,tufted,Wool,0,8687709808,1,1577.04
+209,12782,2024-01-28,Kas,Manama,402159,4x6,4,342.17,0.0,342.17,Traditional,Oushak,Blue,Ivory,Printed,Polyester,0,8107147321,1,342.17
+210,12791,2023-09-17,PersianWeavers,Accra,696812,12x15,12,1958.97,358.59,1600.38,Traditional,Solid,Ivory,Taupe,MM,Wool,1,8711237967,0,1600.38
+211,12798,2022-05-10,OrientalWeavers,Yerevan,145158,8x10,8,788.96,137.19,651.77,Traditional,Oushak,Blue,Green,MM,Polyester,0,8739416846,1,651.77
+212,12801,2022-01-18,PersianWeavers,Windhoek,875613,8x11,8,747.72,144.95,602.77,Transitional,Abstract,Red,Blue,MM,Polypropylene,1,4870619994,1,2684.45
+213,12801,2024-03-05,Karastan,San Jose,274010,6'7x9'6,6,404.17,0.0,404.17,Traditional,Kazak,Blue,Gray,MM,Polypropylene,1,4870619994,1,2684.45
+214,12801,2024-05-11,PersianWeavers,Dakar,711284,12x15,12,1976.1,298.59,1677.51,Traditional,Solid,Blue,Blue,HM,Wool,1,4870619994,1,2684.45
+215,12808,2023-07-22,Rizzy,Warsaw,366650,6'7x9'6,6,480.83,0.0,480.83,Contemporary,Distressed,Ivory,Beige,HM,Wool,1,5619217514,1,1147.87
+216,12808,2023-09-16,Kas,Manama,861607,8 Round,8,813.14,146.1,667.04,Traditional,Ornate,Navy,Navy,MM,Polyester,1,5619217514,0,1147.87
+217,12811,2022-11-12,Couristan,Panama City,697717,10x14,10,1125.5,177.31,948.19,Transitional,Heriz,Brown,Red,HM,Wool,1,2152624948,0,948.19
+218,12813,2024-06-10,OrientalWeavers,Athens,570824,8x10,8,717.89,0.0,717.89,Traditional,Heriz,Gold,Green,MM,Polypropylene,1,5346666633,0,717.89
+219,12816,2024-07-11,PersianWeavers,Skopje,313532,12x15,12,1884.86,264.12,1620.74,Traditional,Medallion,Blue,Blue,MM,Polyester,1,7283476138,1,1620.74
+220,12821,2022-07-13,Orian,Dublin,162327,12x15,12,1829.79,270.81,1558.98,Traditional,Ornate,Green,Gold,HM,Wool,0,8679968935,1,1558.98
+221,12822,2023-11-20,Karastan,Kingstown,147852,12x15,12,1872.91,334.09,1538.82,Traditional,Solid,Gold,Ivory,tufted,Wool,0,1126857299,1,1538.82
+222,12827,2023-04-15,Artisan,Sofia,723495,6'7x9'6,6,555.45,0.0,555.45,Traditional,Geometric,Ivory,Beige,HM,Wool,0,6419787838,0,555.45
+223,12837,2024-05-21,Kas,Kuwait City,854769,12x15,12,1959.65,384.77,1574.88,Traditional,Abstract,Ivory,Taupe,Printed,Polypropylene,0,8117393358,1,1574.88
+224,12847,2022-07-18,Orian,Andorra la Vella,879548,12x15,12,1857.16,256.29,1600.87,Contemporary,Heriz,Blue,Green,tufted,Wool,1,9439471194,0,1600.87
+225,12852,2023-05-17,Couristan,Lima,124003,12x15,12,2006.13,312.64,1693.49,Contemporary,Geometric,Red,Green,tufted,Wool,1,4086831862,0,2128.93
+226,12852,2023-06-04,Kas,Mogadishu,976405,6'7x9'6,6,435.44,0.0,435.44,Traditional,Medallion,Gray,Taupe,Printed,Polypropylene,1,4086831862,1,2128.93
+227,12859,2022-02-22,Karastan,London,873390,12x15,12,1915.39,195.77,1719.62,Contemporary,Distressed,Beige,Ivory,HM,Wool,1,8540324809,1,1719.62
+228,12863,2024-01-30,Rizzy,Warsaw,762887,10x14,10,1257.84,171.05,1086.79,Transitional,Abstract,Red,Green,tufted,Wool,1,9035642727,1,1086.79
+229,12866,2024-01-03,PersianWeavers,Tashkent,670417,10x14,10,1071.37,130.24,941.13,Traditional,Kazak,Green,Ivory,Printed,Polyester,1,8127205476,1,941.13
+230,12876,2023-06-30,Kas,Thimphu,386267,4x6,4,385.51,0.0,385.51,Traditional,Ornate,Beige,Red,tufted,Wool,0,3369855636,1,385.51
+231,12878,2023-07-27,Surya,Havana,293918,12x15,12,1891.69,336.28,1555.41,Traditional,Oushak,Red,Gold,HM,Wool,1,3404232924,1,1555.41
+232,12880,2023-09-29,OrientalWeavers,Libreville,416235,8 Round,8,762.42,0.0,762.42,Transitional,Heriz,Ivory,Ivory,MM,Polypropylene,1,2710577437,0,762.42
+233,12883,2024-04-13,Dalyn,Seoul,320655,12x15,12,1838.9,267.48,1571.42,Traditional,Ornate,Green,Beige,MM,Polyester,0,3220556763,0,1571.42
+234,12891,2024-04-21,Orian,Brussels,943887,4x6,4,339.99,0.0,339.99,Contemporary,Distressed,Green,Beige,MM,Polyester,1,2181168824,0,339.99
+235,12895,2022-01-17,OrientalWeavers,Yerevan,338113,12x15,12,1974.32,267.65,1706.67,Traditional,Ornate,Gray,Brown,Printed,Polyester,1,9563847172,0,1706.67
+236,12898,2023-01-08,PersianWeavers,Windhoek,618057,6'7x9'6,6,491.26,0.0,491.26,Traditional,Oushak,Green,Taupe,HM,Wool,1,9688437900,1,491.26
+237,12905,2022-01-15,Artisan,Moscow,773582,12x15,12,1777.46,206.87,1570.59,Traditional,Distressed,Gray,Green,HM,Wool,0,6877887867,0,1860.4699999999998
+238,12905,2022-08-18,DynamicRugs,Nuku'alofa,728898,4x6,4,289.88,0.0,289.88,Contemporary,Solid,Gold,Gray,Printed,Polyester,0,6877887867,1,1860.4699999999998
+239,12906,2022-08-16,Artisan,Moscow,610033,12x15,12,1854.4,251.06,1603.34,Transitional,Heriz,Gray,Gold,MM,Polyester,1,5224472476,1,1603.34
+240,12908,2022-09-14,Karastan,San Jose,777480,10x14,10,1186.68,234.99,951.69,Traditional,Ornate,Blue,Red,HM,Wool,0,1080340581,0,951.69
+241,12909,2023-12-29,OrientalWeavers,Dushanbe,746856,12x15,12,1951.83,307.55,1644.28,Traditional,Ornate,Ivory,Gold,HM,Wool,0,7543080887,0,1998.6399999999999
+242,12909,2024-12-12,OrientalWeavers,Luxembourg,959838,4x6,4,354.36,0.0,354.36,Traditional,Distressed,Navy,Beige,HM,Wool,1,7543080887,1,1998.6399999999999
+243,12911,2023-06-01,Surya,Nouakchott,155667,8x11,8,896.88,126.36,770.52,Transitional,Heriz,Taupe,Beige,Printed,Polypropylene,0,5229723937,0,770.52
+244,12917,2022-10-19,Artisan,Moscow,527089,8 Round,8,812.49,124.38,688.11,Traditional,Kazak,Blue,Gold,MM,Polypropylene,0,1404324983,0,688.11
+245,12925,2024-07-08,Rizzy,Vientiane,194377,12x15,12,1928.62,299.58,1629.04,Traditional,Abstract,Red,Blue,Printed,Polyester,1,4452776152,0,1629.04
+246,12929,2023-02-19,Couristan,Madrid,871751,4x6,4,386.49,0.0,386.49,Traditional,Medallion,Gold,Beige,Printed,Polypropylene,1,9531060709,1,386.49
+247,12934,2022-12-08,PersianWeavers,Skopje,655590,8x11,8,770.34,0.0,770.34,Traditional,Medallion,Taupe,Navy,tufted,Wool,0,5803796351,0,770.34
+248,12940,2023-08-07,OrientalWeavers,Luxembourg,856067,6'7x9'6,6,492.71,0.0,492.71,Traditional,Medallion,Taupe,Brown,MM,Wool,1,4912031686,1,492.71
+249,12945,2023-02-12,DynamicRugs,Tirana,436444,10x14,10,1099.79,125.64,974.15,Contemporary,Heriz,Ivory,Blue,HM,Wool,0,1110486435,1,1397.22
+250,12945,2024-04-13,Orian,Doha,823969,6'7x9'6,6,423.07,0.0,423.07,Contemporary,Solid,Blue,Beige,tufted,Wool,1,1110486435,0,1397.22
+251,12949,2023-02-16,PersianWeavers,Belgrade,906057,12x15,12,1901.28,201.17,1700.11,Traditional,Ornate,Gold,Ivory,MM,Wool,1,7084320108,0,1700.11
+252,12952,2024-07-10,Dalyn,Suva,614845,6'7x9'6,6,478.49,0.0,478.49,Traditional,Ornate,Beige,Red,tufted,Wool,0,3158159561,0,478.49
+253,12962,2023-01-23,Orian,Ashgabat,944320,8 Round,8,819.81,114.01,705.8,Traditional,Heriz,Ivory,Gray,Printed,Polypropylene,0,2049283899,0,705.8
+254,12963,2022-02-22,Rizzy,Beirut,601253,10x14,10,1167.56,162.08,1005.48,Contemporary,Distressed,Taupe,Red,tufted,Wool,0,7983440548,0,1640.58
+255,12963,2023-04-09,Karastan,Lome,162066,8x10,8,764.81,129.71,635.1,Contemporary,Solid,Taupe,Brown,MM,Polypropylene,0,7983440548,0,1640.58
+256,12967,2022-09-10,Couristan,Banjul,759594,6'7x9'6,6,505.45,0.0,505.45,Transitional,Heriz,Blue,Ivory,Printed,Polypropylene,1,3500848748,1,505.45
+257,12973,2022-03-06,Karastan,Honiara,806570,8x11,8,833.78,155.72,678.06,Traditional,Heriz,Beige,Green,Printed,Polyester,0,4055086809,0,678.06
+258,12975,2022-12-15,Couristan,Panama City,708364,8 Round,8,765.36,152.76,612.6,Traditional,Medallion,Ivory,Navy,MM,Polypropylene,1,3215907464,1,612.6
+259,12976,2023-07-19,Artisan,Zagreb,253848,8 Round,8,844.12,126.41,717.71,Traditional,Kazak,Navy,Green,MM,Polyester,1,5820483777,0,717.71
+260,12985,2023-12-10,DynamicRugs,Tripoli,774798,10x14,10,1259.99,226.47,1033.52,Traditional,Kazak,Ivory,Brown,tufted,Wool,1,9566548185,0,1033.52
+261,12996,2024-11-18,Orian,Jakarta,945969,8x10,8,721.3,0.0,721.3,Traditional,Abstract,Gold,Gray,MM,Wool,0,5500008234,1,721.3
+262,12997,2024-12-22,PersianWeavers,Islamabad,861172,6'7x9'6,6,483.19,0.0,483.19,Traditional,Kazak,Beige,Ivory,MM,Polyester,0,5993908630,1,483.19
+263,13010,2023-08-31,Couristan,Asuncion,151377,10x14,10,1204.35,201.38,1002.97,Traditional,Kazak,Beige,Navy,HM,Wool,0,9185306596,0,1450.51
+264,13010,2023-10-15,DynamicRugs,Tirana,474014,6'7x9'6,6,556.98,109.44,447.54,Traditional,Ornate,Green,Green,tufted,Wool,0,9185306596,1,1450.51
+265,13014,2022-03-15,Orian,Manila,490416,4x6,4,271.8,0.0,271.8,Traditional,Kazak,Taupe,Blue,MM,Wool,1,9987035520,0,271.8
+266,13018,2023-11-14,Dalyn,Suva,891776,6'7x9'6,6,467.47,0.0,467.47,Contemporary,Heriz,Blue,Gold,HM,Wool,1,4644792456,1,467.47
+267,13022,2022-07-26,Kas,Colombo,206890,12x15,12,1861.86,336.41,1525.45,Traditional,Ornate,Gold,Taupe,MM,Polyester,1,4138294346,1,2468.69
+268,13022,2024-02-03,Karastan,La Paz,355466,10x14,10,1149.45,206.21,943.24,Traditional,Oushak,Beige,Gray,tufted,Wool,1,4138294346,0,2468.69
+269,13030,2022-10-24,Kas,Thimphu,453427,6'7x9'6,6,501.45,0.0,501.45,Traditional,Oushak,Red,Gray,Printed,Polyester,1,1408327511,1,501.45
+270,13031,2022-12-17,Couristan,Baku,922124,12x15,12,1808.21,339.67,1468.54,Traditional,Kazak,Ivory,Gold,MM,Polyester,0,4688424878,0,1468.54
+271,13032,2023-10-17,Kas,Thimphu,707159,10x14,10,1227.45,151.16,1076.29,Traditional,Geometric,Gray,Ivory,HM,Wool,0,6594138730,1,1076.29
+272,13033,2022-11-04,DynamicRugs,Tripoli,190846,8x11,8,762.26,0.0,762.26,Transitional,Solid,Navy,Brown,HM,Wool,1,1506291003,1,762.26
+273,13038,2023-11-19,Kas,Colombo,123670,6'7x9'6,6,516.68,103.13,413.55,Traditional,Kazak,Navy,Green,Printed,Polyester,1,7678201549,1,413.55
+274,13040,2022-03-04,OrientalWeavers,Ulaanbaatar,923241,4x6,4,347.18,0.0,347.18,Contemporary,Heriz,Beige,Navy,HM,Wool,0,1413527286,1,347.18
+275,13042,2023-12-10,Kas,Kingston,360143,4x6,4,364.79,0.0,364.79,Traditional,Geometric,Gold,Beige,HM,Wool,0,3597931853,1,364.79
+276,13046,2022-08-12,DynamicRugs,Nuku'alofa,564232,4x6,4,362.16,0.0,362.16,Transitional,Solid,Gray,Gold,HM,Wool,1,5907680397,1,362.16
+277,13048,2024-07-26,Orian,Dublin,566948,10x14,10,1138.37,145.24,993.13,Traditional,Oushak,Ivory,Navy,tufted,Wool,1,9061554372,0,993.13
+278,13058,2022-05-02,Karastan,San Jose,692080,6'7x9'6,6,530.39,0.0,530.39,Traditional,Oushak,Gray,Blue,HM,Wool,0,4037454141,0,530.39
+279,13062,2023-04-16,Couristan,Madrid,999924,10x14,10,1199.93,209.9,990.03,Transitional,Geometric,Green,Green,tufted,Wool,0,2720797134,0,990.03
+280,13070,2023-09-01,Kas,Wellington,522432,12x15,12,1897.26,359.97,1537.29,Transitional,Abstract,Gray,Taupe,Printed,Polypropylene,0,8610357812,1,1537.29
+281,13072,2024-01-20,DynamicRugs,Kigali,379623,6'7x9'6,6,435.94,0.0,435.94,Transitional,Abstract,Beige,Taupe,HM,Wool,1,5255800336,1,435.94
+282,13075,2022-05-30,Kas,Mogadishu,868044,12x15,12,1961.38,255.43,1705.95,Traditional,Oushak,Brown,Taupe,HM,Wool,0,5164596800,0,1705.95
+283,13077,2024-11-11,DynamicRugs,Kigali,651600,6'7x9'6,6,611.16,0.0,611.16,Contemporary,Distressed,Ivory,Ivory,HM,Wool,1,3226889247,0,611.16
+284,13080,2024-02-11,Dalyn,Paramaribo,703358,12x15,12,1864.56,217.75,1646.81,Traditional,Medallion,Brown,Gray,Printed,Polyester,1,2919050976,1,1646.81
+285,13081,2023-05-07,DynamicRugs,Porto-Novo,883216,6'7x9'6,6,589.95,0.0,589.95,Contemporary,Geometric,Brown,Brown,MM,Polypropylene,1,2264475778,1,589.95
+286,13082,2022-05-02,Orian,Jakarta,251533,4x6,4,357.61,0.0,357.61,Traditional,Medallion,Blue,Beige,MM,Polypropylene,0,7536128194,0,759.02
+287,13082,2024-04-22,Kas,Nairobi,495934,4x6,4,401.41,0.0,401.41,Transitional,Solid,Beige,Ivory,Printed,Polyester,1,7536128194,0,759.02
+288,13083,2022-11-29,Dalyn,Port-au-Prince,208042,6'7x9'6,6,466.6,0.0,466.6,Traditional,Kazak,Taupe,Beige,tufted,Wool,0,6911468248,1,466.6
+289,13084,2022-04-03,Couristan,Antananarivo,264924,8x10,8,758.21,130.62,627.59,Traditional,Geometric,Gray,Green,Printed,Polypropylene,1,7630944043,1,627.59
+290,13088,2023-04-05,Dalyn,Bucharest,661771,10x14,10,1263.98,235.84,1028.14,Traditional,Oushak,Gold,Brown,HM,Wool,0,9690396675,1,1473.3000000000002
+291,13088,2023-05-08,PersianWeavers,Dakar,743372,6'7x9'6,6,553.53,108.37,445.16,Traditional,Medallion,Beige,Beige,MM,Wool,0,9690396675,0,1473.3000000000002
+292,13089,2023-08-09,OrientalWeavers,San Salvador,685606,8x11,8,912.77,125.4,787.37,Traditional,Ornate,Gray,Ivory,HM,Wool,1,6562512061,1,787.37
+293,13092,2023-05-25,Kas,Rome,808130,6'7x9'6,6,540.6,0.0,540.6,Traditional,Kazak,Ivory,Gray,HM,Wool,0,1921407021,0,1372.83
+294,13092,2024-11-27,Artisan,Damascus,944364,8 Round,8,832.23,0.0,832.23,Traditional,Kazak,Taupe,Navy,Printed,Polypropylene,0,1921407021,1,1372.83
+295,13095,2023-12-15,Rizzy,Bogota,126380,10x14,10,1269.81,244.43,1025.38,Traditional,Ornate,Beige,Green,HM,Wool,1,2386139850,0,1025.38
+296,13100,2022-02-24,OrientalWeavers,Nicosia,468671,8x10,8,796.9,136.67,660.23,Traditional,Medallion,Beige,Beige,HM,Wool,0,9066437936,1,660.23
+297,13103,2022-03-24,Surya,Stockholm,342172,8x11,8,783.07,0.0,783.07,Traditional,Kazak,Brown,Gray,Printed,Polypropylene,0,4787635893,0,783.07
+298,13107,2023-10-01,Karastan,Lome,873452,6'7x9'6,6,551.45,0.0,551.45,Traditional,Abstract,Gray,Beige,MM,Wool,0,1937182589,0,551.45
+299,13119,2024-02-02,DynamicRugs,Majuro,711945,10x14,10,1250.86,131.9,1118.96,Traditional,Distressed,Gold,Navy,MM,Polyester,0,3238498184,0,1118.96
+300,13124,2023-07-21,Kas,Manama,860831,6'7x9'6,6,600.06,0.0,600.06,Traditional,Medallion,Navy,Gold,tufted,Wool,1,9528562345,0,600.06
+301,13130,2022-11-02,OrientalWeavers,Ulaanbaatar,534496,4x6,4,345.8,0.0,345.8,Traditional,Medallion,Red,Gray,Printed,Polypropylene,1,5590036934,1,345.8
+302,13131,2024-12-07,Rizzy,Bangkok,469918,10x14,10,1270.33,235.17,1035.16,Traditional,Ornate,Gray,Beige,tufted,Wool,1,9081413912,1,1035.16
+303,13134,2022-09-22,Artisan,Moscow,155797,10x14,10,1237.62,142.21,1095.41,Traditional,Distressed,Blue,Taupe,tufted,Wool,1,1239155145,1,1095.41
+304,13136,2024-02-16,Couristan,Yaounde,809795,4x6,4,320.71,0.0,320.71,Contemporary,Distressed,Gold,Beige,HM,Wool,0,5056669145,1,320.71
+305,13160,2022-07-19,DynamicRugs,Nuku'alofa,613407,4x6,4,373.25,0.0,373.25,Contemporary,Solid,Brown,Beige,MM,Polypropylene,0,1136123489,0,373.25
+306,13163,2023-12-29,Karastan,Montevideo,272174,10x14,10,1176.37,154.03,1022.34,Contemporary,Abstract,Blue,Navy,HM,Wool,0,3090149772,1,1022.34
+307,13165,2022-12-04,Kas,Minsk,980565,6'7x9'6,6,510.67,0.0,510.67,Contemporary,Abstract,Beige,Red,Printed,Polypropylene,0,8313271348,1,510.67
+308,13171,2024-05-01,Karastan,Tehran,439134,4x6,4,345.15,0.0,345.15,Transitional,Solid,Gold,Taupe,tufted,Wool,1,1675087521,1,345.15
+309,13172,2022-12-26,Kas,Budapest,712687,12x15,12,1884.93,335.91,1549.02,Traditional,Distressed,Beige,Red,MM,Polyester,1,8220192427,0,1549.02
+310,13175,2023-03-18,Rizzy,Baghdad,167470,10x14,10,1199.62,139.14,1060.48,Traditional,Medallion,Gray,Ivory,HM,Wool,0,1005057904,0,1060.48
+311,13176,2024-03-23,Surya,Stockholm,241725,8x10,8,800.23,128.13,672.1,Traditional,Kazak,Beige,Navy,MM,Wool,1,8266852251,0,672.1
+312,13179,2024-06-18,Orian,Jakarta,970625,10x14,10,1243.8,200.99,1042.81,Transitional,Geometric,Green,Blue,tufted,Wool,1,9107616183,1,1042.81
+313,13187,2022-07-18,PersianWeavers,Bridgetown,158072,10x14,10,1209.86,136.47,1073.39,Transitional,Solid,Navy,Navy,HM,Wool,1,8134564900,0,1073.39
+314,13189,2022-01-29,Artisan,Podgorica,542358,6'7x9'6,6,482.04,0.0,482.04,Traditional,Kazak,Blue,Green,Printed,Polypropylene,0,5751476412,0,482.04
+315,13190,2022-07-15,Rizzy,Cairo,127057,4x6,4,387.42,0.0,387.42,Traditional,Distressed,Beige,Blue,Printed,Polyester,0,1560640899,0,387.42
+316,13200,2022-08-25,PersianWeavers,Tbilisi,604941,6'7x9'6,6,500.12,0.0,500.12,Contemporary,Geometric,Blue,Beige,HM,Wool,1,8143414377,1,500.12
+317,13207,2023-01-02,Couristan,Yaounde,503084,8x11,8,786.47,128.89,657.58,Contemporary,Distressed,Blue,Brown,Printed,Polypropylene,0,5735413252,1,657.58
+318,13208,2022-08-27,Dalyn,Paramaribo,345866,10x14,10,1206.95,155.69,1051.26,Traditional,Ornate,Gold,Brown,tufted,Wool,1,9743446144,1,1051.26
+319,13216,2023-08-21,Couristan,Algiers,310322,6'7x9'6,6,457.07,0.0,457.07,Traditional,Oushak,Beige,Gray,Printed,Polyester,0,2887913199,0,1487.81
+320,13216,2024-08-19,Surya,Lusaka,315372,10x14,10,1198.34,167.6,1030.74,Traditional,Medallion,Gold,Navy,Printed,Polyester,1,2887913199,1,1487.81
+321,13219,2022-06-07,PersianWeavers,Windhoek,602990,10x14,10,1177.14,131.22,1045.92,Traditional,Ornate,Gold,Green,HM,Wool,1,7745930834,0,1558.7
+322,13219,2022-12-24,Couristan,Sarajevo,664628,6'7x9'6,6,512.78,0.0,512.78,Traditional,Kazak,Green,Beige,MM,Polyester,1,7745930834,0,1558.7
+323,13232,2024-01-17,Artisan,Podgorica,413052,10x14,10,1189.12,199.82,989.3,Contemporary,Abstract,Red,Taupe,tufted,Wool,0,8780879208,0,2579.52
+324,13232,2024-03-30,OrientalWeavers,Nassau,780533,12x15,12,1815.98,225.76,1590.22,Traditional,Geometric,Blue,Beige,MM,Polypropylene,0,8780879208,1,2579.52
+325,13240,2022-12-16,OrientalWeavers,Gaborone,676352,8x11,8,750.38,139.64,610.74,Traditional,Medallion,Ivory,Red,Printed,Polyester,1,1241741065,1,610.74
+326,13244,2024-05-19,Dalyn,Beijing,320919,12x15,12,1935.58,313.95,1621.63,Traditional,Solid,Blue,Blue,tufted,Wool,1,5657699271,1,2282.65
+327,13244,2024-09-25,DynamicRugs,Copenhagen,717602,8x10,8,793.44,132.42,661.02,Traditional,Heriz,Gold,Green,MM,Wool,1,5657699271,1,2282.65
+328,13246,2022-01-14,Karastan,La Paz,641752,4x6,4,330.39,0.0,330.39,Traditional,Abstract,Beige,Green,tufted,Wool,0,5668011226,0,330.39
+329,13249,2022-12-03,Kas,Manama,335664,8x10,8,778.61,0.0,778.61,Traditional,Medallion,Green,Taupe,tufted,Wool,1,4849803652,0,778.61
+330,13256,2023-12-25,Karastan,Kingstown,101891,10x14,10,1243.8,200.33,1043.47,Transitional,Solid,Gray,Red,MM,Wool,0,4799851534,1,1043.47
+331,13257,2022-05-15,Orian,Mexico City,944488,12x15,12,1938.37,345.68,1592.69,Traditional,Kazak,Blue,Blue,MM,Wool,0,1004016621,1,1592.69
+332,13259,2024-05-09,Kas,Budapest,244735,8 Round,8,799.18,128.01,671.17,Traditional,Geometric,Gray,Taupe,tufted,Wool,0,5299962465,0,671.17
+333,13264,2024-04-28,Orian,Doha,973689,12x15,12,1883.15,197.2,1685.95,Traditional,Kazak,Blue,Ivory,HM,Wool,0,4089933275,1,2710.45
+334,13264,2024-11-08,Rizzy,Berlin,293013,10x14,10,1206.82,182.32,1024.5,Traditional,Geometric,Blue,Navy,HM,Wool,0,4089933275,1,2710.45
+335,13266,2024-05-29,Dalyn,Tunis,662187,12x15,12,1880.92,229.71,1651.21,Contemporary,Heriz,Gold,Taupe,MM,Polyester,1,8087070355,0,1651.21
+336,13268,2022-05-28,Rizzy,Dhaka,678296,6'7x9'6,6,523.79,0.0,523.79,Traditional,Geometric,Ivory,Gold,MM,Polypropylene,1,7240990473,1,523.79
+337,13279,2023-06-03,DynamicRugs,Kigali,235497,6'7x9'6,6,473.25,0.0,473.25,Transitional,Heriz,Red,Brown,MM,Wool,1,5376422453,1,473.25
+338,13282,2022-02-12,Kas,Wellington,369425,8x10,8,773.15,143.07,630.08,Traditional,Distressed,Gray,Brown,HM,Wool,1,6202400878,0,630.08
+339,13283,2023-05-26,PersianWeavers,Georgetown,788049,4x6,4,346.15,0.0,346.15,Traditional,Medallion,Red,Ivory,MM,Wool,1,9436440927,1,1958.4699999999998
+340,13283,2024-01-01,Kas,Managua,208793,12x15,12,1849.2,236.88,1612.32,Traditional,Ornate,Green,Beige,Printed,Polypropylene,1,9436440927,1,1958.4699999999998
+341,13295,2024-02-09,OrientalWeavers,Athens,939556,4x6,4,348.7,0.0,348.7,Contemporary,Heriz,Navy,Red,tufted,Wool,1,9100969125,1,348.7
+342,13302,2023-11-22,Karastan,Tehran,200960,4x6,4,342.95,0.0,342.95,Traditional,Oushak,Ivory,Taupe,HM,Wool,0,3579124450,1,342.95
+343,13308,2022-02-12,PersianWeavers,Skopje,138042,10x14,10,1199.77,121.85,1077.92,Contemporary,Heriz,Red,Gray,HM,Wool,1,4021528562,1,1077.92
+344,13315,2022-04-11,DynamicRugs,Nuku'alofa,740010,12x15,12,1946.37,384.95,1561.42,Transitional,Abstract,Beige,Gray,HM,Wool,0,1364500077,1,1561.42
+345,13317,2023-01-29,Couristan,Antananarivo,422790,4x6,4,300.35,0.0,300.35,Traditional,Kazak,Brown,Navy,MM,Wool,0,1789401002,1,1142.3400000000001
+346,13317,2024-12-21,OrientalWeavers,Dushanbe,529087,8x10,8,841.99,0.0,841.99,Transitional,Abstract,Green,Blue,Printed,Polypropylene,1,1789401002,0,1142.3400000000001
+347,13318,2024-11-08,Rizzy,Cairo,643336,10x14,10,1221.56,147.32,1074.24,Contemporary,Solid,Blue,Gold,HM,Wool,0,3346700663,0,1074.24
+348,13322,2022-12-22,Dalyn,Beijing,958003,6'7x9'6,6,573.81,0.0,573.81,Traditional,Kazak,Beige,Gold,MM,Polyester,0,7775377085,0,573.81
+349,13324,2023-03-23,Artisan,Zagreb,815717,10x14,10,1197.38,158.56,1038.82,Traditional,Kazak,Taupe,Ivory,tufted,Wool,0,1775898620,0,1038.82
+350,13325,2023-01-10,Orian,Manila,838768,10x14,10,1218.52,208.34,1010.18,Traditional,Solid,Gray,Taupe,Printed,Polypropylene,1,3349521328,1,1010.18
+351,13327,2022-05-01,Dalyn,Ljubljana,888516,12x15,12,1907.18,243.07,1664.11,Traditional,Ornate,Taupe,Red,MM,Polyester,1,1794852002,0,2698.5299999999997
+352,13327,2022-09-05,DynamicRugs,Majuro,464823,10x14,10,1184.34,149.92,1034.42,Traditional,Heriz,Taupe,Green,MM,Wool,0,1794852002,1,2698.5299999999997
+353,13333,2022-09-25,Kas,Colombo,688093,10x14,10,1163.35,229.48,933.87,Traditional,Distressed,Green,Green,tufted,Wool,1,4288432089,1,933.87
+354,13342,2022-03-03,Kas,Hanoi,734106,6'7x9'6,6,556.05,0.0,556.05,Traditional,Distressed,Beige,Gold,HM,Wool,1,2723465053,1,883.21
+355,13342,2024-08-30,DynamicRugs,Copenhagen,818491,4x6,4,327.16,0.0,327.16,Traditional,Oushak,Blue,Gray,Printed,Polypropylene,1,2723465053,1,883.21
+356,13344,2022-11-25,Kas,Budapest,953401,12x15,12,1806.39,288.01,1518.38,Traditional,Medallion,Red,Green,MM,Wool,0,6012475968,0,1518.38
+357,13357,2023-09-05,PersianWeavers,Georgetown,622755,10x14,10,1260.57,168.06,1092.51,Traditional,Oushak,Blue,Gold,HM,Wool,0,4396320545,0,1092.51
+358,13362,2023-03-28,Surya,Nouakchott,835505,4x6,4,350.89,0.0,350.89,Contemporary,Abstract,Gold,Blue,Printed,Polypropylene,0,1004930377,1,350.89
+359,13371,2022-09-15,Couristan,Valletta,237497,8 Round,8,790.6,153.83,636.77,Traditional,Distressed,Gold,Beige,Printed,Polypropylene,0,9172841613,1,636.77
+360,13374,2023-08-08,OrientalWeavers,Dushanbe,557925,8x10,8,836.48,0.0,836.48,Traditional,Kazak,Gray,Green,HM,Wool,1,6556636800,1,1188.16
+361,13374,2024-02-27,Couristan,Madrid,131418,4x6,4,351.68,0.0,351.68,Traditional,Medallion,Brown,Gray,HM,Wool,0,6556636800,0,1188.16
+362,13377,2022-05-29,PersianWeavers,Belgrade,506285,4x6,4,350.89,0.0,350.89,Contemporary,Abstract,Gold,Gray,tufted,Wool,1,3952491725,0,350.89
+363,13380,2022-07-27,OrientalWeavers,Phnom Penh,271527,12x15,12,1901.82,269.1,1632.72,Transitional,Heriz,Ivory,Taupe,HM,Wool,1,9614797713,1,1632.72
+364,13382,2022-04-06,Artisan,Sofia,837320,10x14,10,1276.89,163.87,1113.02,Traditional,Ornate,Ivory,Ivory,MM,Polypropylene,0,6948770471,0,2829.9700000000003
+365,13382,2022-11-16,DynamicRugs,Porto-Novo,167242,12x15,12,1939.68,222.73,1716.95,Transitional,Abstract,Red,Taupe,HM,Wool,0,6948770471,0,2829.9700000000003
+366,13383,2022-10-03,Dalyn,Ljubljana,317257,4x6,4,325.81,0.0,325.81,Traditional,Oushak,Red,Red,tufted,Wool,0,9762093869,0,325.81
+367,13385,2022-07-11,Dalyn,Kuala Lumpur,881560,8x11,8,804.98,0.0,804.98,Transitional,Distressed,Gold,Blue,HM,Wool,0,8255468676,0,804.98
+368,13389,2024-09-02,Couristan,Lima,829194,8x10,8,862.37,119.52,742.85,Traditional,Distressed,Beige,Navy,tufted,Wool,0,6055823443,0,742.85
+369,13390,2023-09-12,Orian,Andorra la Vella,139322,8x11,8,802.22,131.19,671.03,Traditional,Ornate,Blue,Brown,HM,Wool,0,4354524353,0,671.03
+370,13391,2024-10-05,DynamicRugs,Nuku'alofa,167707,10x14,10,1204.38,223.33,981.05,Traditional,Ornate,Beige,Navy,HM,Wool,1,4274742974,1,981.05
+371,13392,2023-08-09,DynamicRugs,Majuro,353184,12x15,12,1914.53,377.47,1537.06,Traditional,Oushak,Red,Taupe,Printed,Polyester,0,7352485151,0,2219.73
+372,13392,2024-02-23,Rizzy,Bern,770629,8x11,8,789.16,106.49,682.67,Traditional,Heriz,Gray,Blue,tufted,Wool,1,7352485151,0,2219.73
+373,13393,2024-02-28,Rizzy,Kabul,246539,8x11,8,716.91,137.29,579.62,Traditional,Kazak,Gray,Blue,Printed,Polyester,0,8691464596,0,579.62
+374,13402,2024-05-13,Couristan,Algiers,417153,4x6,4,389.86,0.0,389.86,Traditional,Oushak,Ivory,Beige,MM,Polyester,1,5962195387,0,708.9300000000001
+375,13402,2024-07-19,Dalyn,Kuala Lumpur,218495,4x6,4,319.07,0.0,319.07,Traditional,Oushak,Taupe,Blue,HM,Wool,1,5962195387,0,708.9300000000001
+376,13408,2024-06-15,Rizzy,Apia,549569,10x14,10,1211.42,154.49,1056.93,Transitional,Distressed,Gold,Ivory,HM,Wool,1,2837975458,1,1056.93
+377,13413,2022-08-11,Orian,Abuja,936370,8x11,8,809.44,138.56,670.88,Traditional,Medallion,Green,Beige,Printed,Polypropylene,0,7771501426,0,670.88
+378,13417,2022-01-30,DynamicRugs,Santo Domingo,639245,10x14,10,1207.57,150.97,1056.6,Traditional,Oushak,Taupe,Green,HM,Wool,0,1923940722,1,2570.33
+379,13417,2022-08-14,Dalyn,Port-au-Prince,348761,12x15,12,1828.35,314.62,1513.73,Contemporary,Heriz,Taupe,Gold,Printed,Polypropylene,1,1923940722,0,2570.33
+380,13422,2023-02-13,Orian,Manila,738615,8x11,8,828.06,103.71,724.35,Traditional,Abstract,Navy,Blue,HM,Wool,1,8749349971,0,724.35
+381,13424,2024-02-17,Couristan,Lima,603695,10x14,10,1270.04,166.5,1103.54,Traditional,Geometric,Ivory,Brown,HM,Wool,0,4792645098,0,2165.3
+382,13424,2024-09-30,Couristan,Baku,514426,10x14,10,1210.52,148.76,1061.76,Transitional,Geometric,Gold,Green,MM,Polypropylene,0,4792645098,0,2165.3
+383,13428,2023-01-09,PersianWeavers,Maputo,339563,4x6,4,363.47,0.0,363.47,Contemporary,Solid,Ivory,Blue,tufted,Wool,1,9353792842,1,363.47
+384,13432,2024-06-16,OrientalWeavers,Kampala,943568,8x11,8,786.71,0.0,786.71,Traditional,Oushak,Gold,Gray,HM,Wool,0,4697989047,0,786.71
+385,13433,2023-10-29,Kas,Manama,475152,10x14,10,1112.49,133.64,978.85,Traditional,Ornate,Green,Red,MM,Polypropylene,0,5113131504,1,978.85
+386,13434,2022-06-28,Kas,Colombo,409822,10x14,10,1118.21,119.75,998.46,Traditional,Oushak,Gold,Gold,tufted,Wool,1,3732989094,0,998.46
+387,13436,2023-11-25,DynamicRugs,Tirana,857661,4x6,4,397.31,0.0,397.31,Traditional,Kazak,Brown,Brown,MM,Polypropylene,0,9871113050,1,397.31
+388,13440,2024-03-07,Dalyn,Beijing,199304,4x6,4,396.49,0.0,396.49,Traditional,Oushak,Brown,Gold,HM,Wool,1,7899601813,0,396.49
+389,13442,2022-08-28,OrientalWeavers,Kampala,570593,6'7x9'6,6,491.29,0.0,491.29,Contemporary,Heriz,Gold,Green,Printed,Polyester,1,3367792476,0,491.29
+390,13444,2024-11-14,Orian,Dublin,404333,4x6,4,339.87,0.0,339.87,Traditional,Medallion,Brown,Blue,MM,Wool,1,5076032055,1,339.87
+391,13457,2023-03-31,OrientalWeavers,Nassau,243234,8x11,8,808.29,118.28,690.01,Traditional,Geometric,Beige,Gray,tufted,Wool,0,6456282211,0,690.01
+392,13462,2024-06-10,Karastan,Montevideo,127395,4x6,4,376.05,0.0,376.05,Transitional,Solid,Gray,Red,HM,Wool,1,9347604528,0,376.05
+393,13464,2022-07-30,PersianWeavers,Accra,859945,6'7x9'6,6,556.68,0.0,556.68,Traditional,Medallion,Taupe,Beige,MM,Polypropylene,0,3904485702,1,1109.38
+394,13464,2023-11-10,DynamicRugs,Majuro,144235,6'7x9'6,6,552.7,0.0,552.7,Transitional,Abstract,Red,Gold,HM,Wool,0,3904485702,0,1109.38
+395,13470,2022-02-11,Karastan,Tehran,245367,4x6,4,318.71,0.0,318.71,Traditional,Kazak,Beige,Red,MM,Polyester,0,8899262311,0,318.71
+396,13474,2023-04-13,DynamicRugs,Santo Domingo,373930,8x10,8,819.02,155.37,663.65,Traditional,Kazak,Blue,Navy,Printed,Polypropylene,1,6360066759,1,663.65
+397,13488,2023-12-03,DynamicRugs,Oslo,207524,10x14,10,1235.51,160.63,1074.88,Contemporary,Distressed,Green,Taupe,MM,Wool,0,9330511753,1,1074.88
+398,13489,2023-02-04,Artisan,Ottawa,826191,4x6,4,406.51,0.0,406.51,Traditional,Heriz,Blue,Green,HM,Wool,1,7183246537,1,2123.1
+399,13489,2024-02-10,Couristan,Asuncion,887184,12x15,12,1932.03,215.44,1716.59,Contemporary,Solid,Gray,Taupe,tufted,Wool,1,7183246537,1,2123.1
+400,13490,2022-05-23,Dalyn,Paramaribo,628826,8x10,8,879.22,159.87,719.35,Traditional,Distressed,Gray,Gray,tufted,Wool,0,7683670082,0,719.35
+401,13491,2022-08-28,PersianWeavers,Georgetown,372285,12x15,12,1867.13,257.88,1609.25,Transitional,Solid,Red,Red,Printed,Polyester,0,5630034193,0,1609.25
+402,13493,2023-01-03,Dalyn,Paramaribo,200856,12x15,12,1969.95,215.51,1754.44,Contemporary,Geometric,Gray,Beige,MM,Polypropylene,1,3424773534,1,1754.44
+403,13494,2024-06-03,Artisan,Podgorica,152538,6'7x9'6,6,516.4,0.0,516.4,Traditional,Kazak,Gold,Gray,MM,Polyester,1,3045435405,1,516.4
+404,13495,2022-04-02,OrientalWeavers,Ulaanbaatar,218930,12x15,12,2017.07,216.73,1800.34,Traditional,Kazak,Taupe,Red,tufted,Wool,0,4688692283,1,1800.34
+405,13502,2022-01-12,Artisan,Helsinki,287236,10x14,10,1249.32,224.53,1024.79,Transitional,Abstract,Taupe,Ivory,MM,Polypropylene,0,7472829050,1,1434.11
+406,13502,2022-08-21,OrientalWeavers,Luxembourg,865717,6'7x9'6,6,409.32,0.0,409.32,Traditional,Ornate,Brown,Taupe,tufted,Wool,0,7472829050,1,1434.11
+407,13504,2024-09-01,Orian,Doha,744270,8 Round,8,843.2,0.0,843.2,Traditional,Abstract,Gold,Green,tufted,Wool,1,1621266078,0,843.2
+408,13506,2023-08-07,PersianWeavers,Khartoum,639958,4x6,4,384.74,0.0,384.74,Contemporary,Geometric,Red,Navy,HM,Wool,0,3480206367,0,384.74
+409,13510,2022-12-01,DynamicRugs,Tirana,493227,10x14,10,1206.33,232.1,974.23,Contemporary,Distressed,Green,Brown,tufted,Wool,0,9522672135,1,974.23
+410,13518,2022-11-03,Couristan,Banjul,190876,6'7x9'6,6,530.34,0.0,530.34,Traditional,Oushak,Beige,Green,HM,Wool,1,5377720099,0,530.34
+411,13522,2022-06-04,OrientalWeavers,Ulaanbaatar,259556,10x14,10,1135.59,222.21,913.38,Traditional,Medallion,Gray,Gray,MM,Polyester,1,6610081062,1,913.38
+412,13524,2022-03-31,Couristan,Asuncion,633962,8 Round,8,958.85,104.74,854.11,Transitional,Abstract,Ivory,Gray,MM,Polyester,1,8182210174,1,854.11
+413,13525,2022-01-27,Orian,Jakarta,543658,4x6,4,355.84,0.0,355.84,Traditional,Kazak,Beige,Red,HM,Wool,1,8223006704,0,355.84
+414,13529,2022-07-11,OrientalWeavers,Athens,541776,4x6,4,314.03,0.0,314.03,Transitional,Heriz,Taupe,Ivory,HM,Wool,1,7581247343,1,314.03
+415,13530,2023-11-06,Orian,Andorra la Vella,957279,6'7x9'6,6,526.45,0.0,526.45,Traditional,Distressed,Beige,Red,HM,Wool,1,1065180224,1,526.45
+416,13533,2023-05-26,DynamicRugs,Rabat,316421,12x15,12,1928.0,236.02,1691.98,Traditional,Ornate,Red,Gray,tufted,Wool,0,2055627734,0,1691.98
+417,13536,2022-02-27,Surya,Lusaka,600961,12x15,12,1896.12,340.97,1555.15,Transitional,Abstract,Blue,Taupe,MM,Polyester,0,9053692475,1,1555.15
+418,13537,2022-02-07,OrientalWeavers,Phnom Penh,850971,8x11,8,739.71,102.55,637.16,Traditional,Solid,Gold,Gold,HM,Wool,1,6976301525,1,1112.36
+419,13537,2024-07-13,Couristan,Baku,264806,6'7x9'6,6,475.2,0.0,475.2,Traditional,Ornate,Gold,Gold,MM,Wool,1,6976301525,0,1112.36
+420,13541,2023-02-22,Orian,Andorra la Vella,297189,6'7x9'6,6,418.73,0.0,418.73,Transitional,Solid,Green,Brown,HM,Wool,0,2745464544,1,1120.08
+421,13541,2024-08-13,Kas,Guatemala City,171947,8x10,8,822.67,121.32,701.35,Transitional,Distressed,Ivory,Beige,tufted,Wool,0,2745464544,0,1120.08
+422,13544,2023-03-31,Dalyn,Port-au-Prince,226072,12x15,12,1860.98,259.85,1601.13,Traditional,Oushak,Taupe,Green,tufted,Wool,0,5162461785,0,1601.13
+423,13546,2023-02-28,PersianWeavers,Port Louis,977822,10x14,10,1220.35,189.5,1030.85,Contemporary,Solid,Blue,Red,Printed,Polypropylene,1,6118564824,1,1030.85
+424,13556,2023-02-10,Orian,Andorra la Vella,693517,4x6,4,343.17,0.0,343.17,Transitional,Geometric,Gold,Gray,HM,Wool,1,9254700422,0,343.17
+425,13563,2022-10-16,DynamicRugs,Nuku'alofa,682088,12x15,12,2043.99,323.48,1720.51,Contemporary,Distressed,Gold,Gold,Printed,Polypropylene,0,3148970491,1,1720.51
+426,13564,2022-12-11,OrientalWeavers,Paris,616373,12x15,12,1805.72,232.99,1572.73,Traditional,Kazak,Beige,Ivory,HM,Wool,1,2713713654,1,1572.73
+427,13567,2024-06-13,DynamicRugs,Ouagadougou,621610,6'7x9'6,6,561.24,0.0,561.24,Traditional,Oushak,Taupe,Brown,HM,Wool,1,9594457183,1,561.24
+428,13569,2022-09-13,OrientalWeavers,Luxembourg,190473,12x15,12,1881.39,255.91,1625.48,Transitional,Distressed,Gray,Brown,MM,Polypropylene,1,7626365286,1,1625.48
+429,13570,2024-02-26,PersianWeavers,Belgrade,763709,4x6,4,338.67,0.0,338.67,Traditional,Kazak,Taupe,Gray,Printed,Polyester,1,6896759278,0,338.67
+430,13574,2024-03-10,Couristan,Valletta,250741,8x10,8,869.11,118.57,750.54,Transitional,Abstract,Ivory,Navy,MM,Polyester,1,9974188387,0,750.54
+431,13575,2022-11-11,Orian,Ashgabat,522109,8 Round,8,793.33,157.02,636.31,Transitional,Geometric,Ivory,Taupe,tufted,Wool,0,2918770250,1,636.31
+432,13577,2022-01-30,Kas,Kingston,527022,6'7x9'6,6,444.2,0.0,444.2,Traditional,Ornate,Green,Beige,tufted,Wool,0,9312742115,1,1250.31
+433,13577,2022-06-20,Couristan,Dodoma,992477,8x11,8,806.11,0.0,806.11,Traditional,Medallion,Brown,Ivory,Printed,Polyester,0,9312742115,0,1250.31
+434,13581,2022-08-11,Rizzy,Brasilia,851535,8x11,8,784.87,152.29,632.58,Traditional,Medallion,Gray,Taupe,tufted,Wool,0,7125160690,1,632.58
+435,13582,2023-05-08,Karastan,San Jose,141429,4x6,4,331.24,0.0,331.24,Traditional,Ornate,Brown,Navy,MM,Polypropylene,0,7866334414,1,331.24
+436,13584,2023-06-13,Couristan,Monaco,119207,4x6,4,339.2,0.0,339.2,Transitional,Abstract,Navy,Beige,MM,Polyester,1,8576536966,0,732.01
+437,13584,2024-12-01,DynamicRugs,Reykjavik,607926,4x6,4,392.81,0.0,392.81,Traditional,Oushak,Blue,Navy,tufted,Wool,0,8576536966,0,732.01
+438,13588,2023-08-19,Rizzy,Cairo,610090,4x6,4,372.6,0.0,372.6,Contemporary,Heriz,Blue,Gray,HM,Wool,1,9306476267,1,372.6
+439,13597,2022-02-25,PersianWeavers,Islamabad,140239,8x11,8,739.09,104.32,634.77,Traditional,Solid,Green,Beige,Printed,Polypropylene,0,2547862741,0,634.77
+440,13598,2023-03-29,OrientalWeavers,Nicosia,901705,6'7x9'6,6,544.46,102.34,442.12,Traditional,Ornate,Brown,Red,HM,Wool,0,1408994827,0,813.1700000000001
+441,13598,2024-03-25,OrientalWeavers,Phnom Penh,572810,4x6,4,371.05,0.0,371.05,Traditional,Solid,Ivory,Navy,MM,Wool,1,1408994827,1,813.1700000000001
+442,13605,2024-05-15,Orian,Doha,712219,8x10,8,794.46,139.7,654.76,Transitional,Solid,Gray,Brown,Printed,Polyester,0,1372789717,0,654.76
+443,13606,2023-03-30,Dalyn,Port-au-Prince,219560,10x14,10,1211.3,235.73,975.57,Transitional,Geometric,Gray,Gold,MM,Wool,1,6471907585,1,975.57
+444,13615,2024-06-27,Surya,Nouakchott,801346,10x14,10,1158.0,122.2,1035.8,Traditional,Medallion,Brown,Brown,Printed,Polyester,0,9485769641,0,2027.37
+445,13615,2024-12-15,Karastan,Tehran,658694,10x14,10,1227.84,236.27,991.57,Traditional,Oushak,Taupe,Blue,tufted,Wool,1,9485769641,1,2027.37
+446,13623,2024-04-11,Orian,Quito,821258,4x6,4,331.15,0.0,331.15,Transitional,Heriz,Gold,Navy,tufted,Wool,1,8899546540,0,331.15
+447,13627,2024-11-25,Karastan,La Paz,188045,10x14,10,1120.13,112.33,1007.8,Traditional,Solid,Ivory,Navy,MM,Polypropylene,0,3169957815,1,1007.8
+448,13632,2023-03-21,Couristan,Sarajevo,215926,8x11,8,793.82,155.89,637.93,Traditional,Ornate,Gray,Red,tufted,Wool,0,8029559771,1,637.93
+449,13636,2022-09-24,Rizzy,Bangkok,823583,6'7x9'6,6,440.98,0.0,440.98,Contemporary,Heriz,Ivory,Red,MM,Polypropylene,0,6036562316,0,440.98
+450,13644,2023-09-12,Karastan,Basseterre,977106,6'7x9'6,6,536.74,0.0,536.74,Contemporary,Distressed,Gray,Gray,Printed,Polypropylene,1,8584929637,0,2074.99
+451,13644,2024-04-23,Karastan,Buenos Aires,500166,10x14,10,1165.56,152.58,1012.98,Traditional,Ornate,Green,Ivory,tufted,Wool,0,8584929637,1,2074.99
+452,13644,2024-11-16,Rizzy,Vientiane,241980,6'7x9'6,6,525.27,0.0,525.27,Traditional,Ornate,Gray,Brown,tufted,Wool,1,8584929637,1,2074.99
+453,13646,2023-04-08,Rizzy,Cairo,231162,12x15,12,1911.74,260.28,1651.46,Traditional,Oushak,Green,Taupe,Printed,Polypropylene,1,2752530378,0,2135.44
+454,13646,2024-11-01,Kas,Vilnius,474227,6'7x9'6,6,483.98,0.0,483.98,Traditional,Ornate,Red,Ivory,Printed,Polyester,0,2752530378,1,2135.44
+455,13650,2023-11-05,DynamicRugs,Rabat,451023,12x15,12,1883.6,347.06,1536.54,Contemporary,Geometric,Taupe,Red,MM,Polyester,1,6067267442,0,1536.54
+456,13674,2024-08-11,Couristan,Yaounde,884018,8x11,8,795.24,142.17,653.07,Transitional,Distressed,Green,Blue,tufted,Wool,1,9475184946,1,653.07
+457,13680,2023-03-06,Rizzy,Conakry,386090,8 Round,8,831.94,147.74,684.2,Traditional,Medallion,Gray,Ivory,Printed,Polypropylene,1,5432414010,0,684.2
+458,13683,2023-08-03,DynamicRugs,Ankara,707926,8x10,8,794.24,153.26,640.98,Traditional,Oushak,Red,Taupe,Printed,Polyester,0,4642490908,1,640.98
+459,13687,2022-04-15,Dalyn,Astana,799438,8x11,8,826.57,125.48,701.09,Traditional,Geometric,Gray,Ivory,MM,Polyester,0,6446866304,0,701.09
+460,13698,2022-07-13,OrientalWeavers,Kampala,286013,8 Round,8,790.81,0.0,790.81,Contemporary,Distressed,Red,Gold,Printed,Polypropylene,0,2060015631,0,790.81
+461,13699,2022-05-18,PersianWeavers,Tashkent,492346,12x15,12,1878.22,372.41,1505.81,Traditional,Distressed,Gray,Brown,tufted,Wool,1,5226177369,1,1505.81
+462,13700,2023-11-28,PersianWeavers,Tashkent,446639,8 Round,8,723.09,107.26,615.83,Traditional,Kazak,Taupe,Navy,Printed,Polypropylene,0,1385866739,0,615.83
+463,13702,2024-04-04,DynamicRugs,Harare,820152,8x11,8,798.62,136.56,662.06,Traditional,Distressed,Blue,Navy,tufted,Wool,0,6930964417,1,662.06
+464,13707,2022-09-07,PersianWeavers,Tashkent,479860,6'7x9'6,6,537.46,0.0,537.46,Traditional,Abstract,Beige,Ivory,MM,Polypropylene,1,7558485678,0,537.46
+465,13712,2022-04-27,Karastan,Castries,993016,12x15,12,1880.05,212.26,1667.79,Traditional,Medallion,Beige,Blue,HM,Wool,0,7141089811,0,1667.79
+466,13716,2022-10-29,OrientalWeavers,Kampala,840097,8x10,8,722.96,105.67,617.29,Transitional,Solid,Red,Navy,tufted,Wool,0,5824925653,1,617.29
+467,13720,2024-05-12,PersianWeavers,Skopje,744502,6'7x9'6,6,454.87,0.0,454.87,Transitional,Geometric,Gray,Brown,Printed,Polyester,0,1513270225,1,454.87
+468,13721,2024-08-28,Karastan,New Delhi,744793,8 Round,8,800.41,118.09,682.32,Traditional,Kazak,Navy,Navy,tufted,Wool,1,7969840231,1,682.32
+469,13726,2022-12-05,PersianWeavers,Muscat,893447,12x15,12,1896.15,239.63,1656.52,Traditional,Ornate,Beige,Navy,HM,Wool,1,4888370533,1,1656.52
+470,13728,2022-12-26,PersianWeavers,Maputo,309775,4x6,4,450.37,0.0,450.37,Traditional,Ornate,Blue,Gold,HM,Wool,1,4176748136,0,450.37
+471,13729,2022-04-28,Dalyn,Suva,907185,6'7x9'6,6,472.82,0.0,472.82,Traditional,Oushak,Red,Red,Printed,Polypropylene,1,9270395525,0,886.0799999999999
+472,13729,2023-04-13,Karastan,San Jose,772774,6'7x9'6,6,413.26,0.0,413.26,Traditional,Oushak,Ivory,Navy,MM,Polyester,0,9270395525,1,886.0799999999999
+473,13731,2024-06-12,PersianWeavers,Khartoum,493265,10x14,10,1138.34,133.88,1004.46,Traditional,Medallion,Taupe,Blue,MM,Polypropylene,1,2567355979,1,1004.46
+474,13732,2023-01-01,Couristan,Baku,936538,8 Round,8,799.46,0.0,799.46,Traditional,Oushak,Red,Green,HM,Wool,1,9278548174,0,799.46
+475,13734,2023-11-10,Dalyn,Prague,274695,4x6,4,350.91,0.0,350.91,Traditional,Geometric,Gold,Gray,Printed,Polypropylene,0,3049704044,1,350.91
+476,13736,2024-03-02,Kas,Kuwait City,449811,6'7x9'6,6,558.9,0.0,558.9,Contemporary,Distressed,Brown,Gray,MM,Wool,0,8116334538,1,558.9
+477,13741,2024-08-11,Couristan,Antananarivo,623588,6'7x9'6,6,482.15,0.0,482.15,Transitional,Solid,Ivory,Beige,MM,Polypropylene,1,3265507762,1,482.15
+478,13745,2024-01-22,Orian,Andorra la Vella,831669,10x14,10,1239.98,139.64,1100.34,Traditional,Ornate,Blue,Beige,Printed,Polyester,0,2248672298,0,1100.34
+479,13749,2022-05-21,Couristan,Sarajevo,109618,10x14,10,1172.9,187.12,985.78,Traditional,Heriz,Brown,Blue,tufted,Wool,1,2837285152,0,985.78
+480,13766,2023-01-16,DynamicRugs,Tirana,167588,4x6,4,276.1,0.0,276.1,Traditional,Oushak,Navy,Ivory,MM,Polypropylene,0,7539203287,1,276.1
+481,13767,2024-10-01,Rizzy,Tegucigalpa,114712,8x10,8,905.17,116.57,788.6,Traditional,Oushak,Ivory,Blue,tufted,Wool,0,5950681493,1,788.6
+482,13769,2022-06-21,OrientalWeavers,Paris,371073,6'7x9'6,6,473.26,0.0,473.26,Transitional,Heriz,Blue,Blue,tufted,Wool,0,7248825336,1,473.26
+483,13770,2023-03-13,Surya,Victoria,781096,10x14,10,1257.81,154.82,1102.99,Contemporary,Solid,Navy,Navy,tufted,Wool,1,4976382461,1,1102.99
+484,13775,2022-02-03,OrientalWeavers,Gaborone,356666,6'7x9'6,6,543.27,0.0,543.27,Traditional,Heriz,Green,Gold,Printed,Polypropylene,0,1253422505,1,543.27
+485,13778,2023-09-19,Dalyn,Beijing,497981,10x14,10,1120.54,149.48,971.06,Traditional,Medallion,Brown,Ivory,Printed,Polyester,0,5846220168,0,971.06
+486,13781,2024-12-05,OrientalWeavers,Lisbon,885817,4x6,4,334.94,0.0,334.94,Traditional,Kazak,Blue,Ivory,Printed,Polyester,0,5439908823,0,334.94
+487,13782,2023-09-22,Couristan,Dodoma,829673,4x6,4,369.94,0.0,369.94,Traditional,Kazak,Blue,Gray,tufted,Wool,1,3731892760,1,369.94
+488,13794,2024-08-08,DynamicRugs,Tripoli,440666,4x6,4,326.34,0.0,326.34,Traditional,Medallion,Gray,Gray,HM,Wool,1,8428593857,1,326.34
+489,13798,2022-10-20,OrientalWeavers,Phnom Penh,765563,4x6,4,288.17,0.0,288.17,Contemporary,Abstract,Blue,Green,MM,Wool,0,8016203597,0,288.17
+490,13802,2022-08-15,DynamicRugs,Reykjavik,777863,8x10,8,760.66,118.06,642.6,Traditional,Geometric,Blue,Taupe,Printed,Polypropylene,1,7430554800,1,642.6
+491,13803,2024-07-21,Dalyn,Paramaribo,385221,4x6,4,397.2,0.0,397.2,Transitional,Distressed,Blue,Ivory,Printed,Polypropylene,1,4242655291,1,397.2
+492,13804,2023-11-25,Dalyn,Pyongyang,511165,8x10,8,873.8,0.0,873.8,Transitional,Heriz,Gray,Beige,HM,Wool,1,2276664106,1,873.8
+493,13809,2023-10-16,Kas,Hanoi,885341,10x14,10,1132.5,123.86,1008.64,Traditional,Abstract,Taupe,Red,MM,Polyester,1,6055431939,1,1008.64
+494,13811,2022-03-29,PersianWeavers,Tokyo,898298,8x10,8,797.73,120.21,677.52,Contemporary,Abstract,Beige,Taupe,MM,Polypropylene,0,7282522923,1,677.52
+495,13819,2022-03-05,Kas,Thimphu,281901,6'7x9'6,6,506.78,0.0,506.78,Traditional,Kazak,Blue,Ivory,MM,Polyester,0,2150825555,1,506.78
+496,13825,2022-03-08,Dalyn,Paramaribo,414146,4x6,4,302.82,0.0,302.82,Traditional,Oushak,Red,Gray,HM,Wool,0,9872922240,0,302.82
+497,13826,2022-10-02,Kas,Wellington,516009,12x15,12,1994.1,220.28,1773.82,Traditional,Distressed,Gold,Brown,HM,Wool,1,9030848314,0,1773.82
+498,13832,2022-12-02,Dalyn,Astana,624708,8x10,8,772.9,115.96,656.94,Traditional,Ornate,Gold,Red,MM,Polypropylene,1,3882132068,0,656.94
+499,13838,2023-12-27,Couristan,Dodoma,849588,10x14,10,1301.15,232.45,1068.7,Transitional,Heriz,Brown,Brown,Printed,Polypropylene,1,3792436851,1,1068.7
+500,13845,2024-11-04,DynamicRugs,Nuku'alofa,557766,6'7x9'6,6,437.57,0.0,437.57,Transitional,Abstract,Brown,Navy,MM,Wool,1,9036118512,0,437.57
+501,13850,2022-08-12,Karastan,Montevideo,644685,8x10,8,797.45,154.65,642.8,Contemporary,Geometric,Ivory,Gold,MM,Polyester,0,7419348754,1,642.8
+502,13856,2022-02-16,OrientalWeavers,San Salvador,496402,4x6,4,340.13,0.0,340.13,Traditional,Heriz,Navy,Ivory,Printed,Polyester,1,5913157532,1,340.13
+503,13860,2024-01-23,Karastan,Buenos Aires,581812,6'7x9'6,6,554.35,0.0,554.35,Traditional,Medallion,Navy,Blue,MM,Wool,1,2648650184,1,554.35
+504,13868,2022-04-23,DynamicRugs,Porto-Novo,158707,6'7x9'6,6,523.84,0.0,523.84,Traditional,Ornate,Brown,Gray,MM,Polypropylene,0,8906561436,1,523.84
+505,13870,2023-10-21,PersianWeavers,Windhoek,225597,12x15,12,1903.32,220.17,1683.15,Traditional,Oushak,Ivory,Blue,tufted,Wool,0,6690241539,0,1683.15
+506,13872,2024-08-19,Rizzy,Vienna,654548,6'7x9'6,6,439.67,0.0,439.67,Contemporary,Abstract,Green,Gray,tufted,Wool,0,7603910391,1,439.67
+507,13873,2022-04-12,Orian,Brussels,746523,12x15,12,1940.3,261.8,1678.5,Traditional,Ornate,Red,Gold,HM,Wool,1,1705368820,0,2208.92
+508,13873,2022-05-18,Kas,Minsk,430330,6'7x9'6,6,530.42,0.0,530.42,Contemporary,Abstract,Ivory,Gold,MM,Polyester,1,1705368820,0,2208.92
+509,13885,2023-07-27,Orian,Ashgabat,898093,6'7x9'6,6,536.33,0.0,536.33,Transitional,Geometric,Ivory,Brown,Printed,Polypropylene,1,1143796265,0,536.33
+510,13888,2022-04-26,Dalyn,Suva,622925,6'7x9'6,6,505.73,0.0,505.73,Traditional,Medallion,Gold,Red,tufted,Wool,1,9803903104,0,505.73
+511,13894,2024-12-06,PersianWeavers,Dakar,611850,12x15,12,1932.04,259.06,1672.98,Traditional,Solid,Ivory,Gray,HM,Wool,0,9937118962,0,1672.98
+512,13896,2024-03-09,Couristan,Banjul,827825,6'7x9'6,6,488.17,0.0,488.17,Contemporary,Abstract,Taupe,Red,HM,Wool,1,2158804022,0,1474.1200000000001
+513,13896,2024-12-01,Dalyn,Ljubljana,102806,10x14,10,1217.08,231.13,985.95,Traditional,Kazak,Beige,Green,tufted,Wool,0,2158804022,0,1474.1200000000001
+514,13898,2024-10-09,Artisan,Podgorica,803807,12x15,12,1909.85,267.5,1642.35,Transitional,Heriz,Beige,Brown,MM,Polyester,0,6429933249,1,1642.35
+515,13902,2023-09-22,Couristan,Baku,273436,8x10,8,767.1,0.0,767.1,Traditional,Abstract,Gray,Beige,Printed,Polypropylene,0,4096229498,0,767.1
+516,13921,2024-01-25,PersianWeavers,Riga,125245,4x6,4,357.77,0.0,357.77,Contemporary,Distressed,Navy,Red,MM,Polyester,1,4813390210,0,357.77
+517,13922,2023-01-23,Rizzy,Beirut,900639,8x11,8,836.0,160.02,675.98,Traditional,Ornate,Gray,Red,MM,Polyester,0,6293596528,1,675.98
+518,13925,2022-09-07,Rizzy,Bogota,226550,12x15,12,1838.57,225.72,1612.85,Transitional,Geometric,Blue,Navy,tufted,Wool,0,6148097311,1,1612.85
+519,13933,2022-03-13,Artisan,Damascus,420675,8 Round,8,809.36,123.77,685.59,Transitional,Geometric,Gray,Brown,HM,Wool,0,1251537820,0,1074.19
+520,13933,2022-09-02,Rizzy,Bogota,673725,4x6,4,388.6,0.0,388.6,Traditional,Kazak,Gold,Taupe,HM,Wool,0,1251537820,0,1074.19
+521,13939,2023-02-02,Artisan,Ottawa,703801,12x15,12,1768.26,256.26,1512.0,Transitional,Distressed,Ivory,Navy,tufted,Wool,1,9290514209,0,1512.0
+522,13944,2023-07-31,PersianWeavers,Port Louis,769497,4x6,4,302.35,0.0,302.35,Traditional,Ornate,Gold,Green,Printed,Polypropylene,0,7003593521,1,302.35
+523,13945,2023-10-13,Dalyn,Prague,651903,10x14,10,1267.87,240.36,1027.51,Traditional,Oushak,Navy,Beige,MM,Polypropylene,1,1173043548,1,1027.51
+524,13946,2023-03-22,Artisan,Riyadh,746891,6'7x9'6,6,526.25,0.0,526.25,Traditional,Medallion,Taupe,Beige,tufted,Wool,0,4030943602,1,526.25
+525,13954,2023-11-06,Kas,Colombo,410181,6'7x9'6,6,533.57,0.0,533.57,Transitional,Solid,Navy,Taupe,HM,Wool,1,3895114082,1,533.57
+526,13965,2022-04-24,Couristan,Kyiv,580946,8x11,8,753.94,0.0,753.94,Traditional,Oushak,Blue,Taupe,MM,Wool,0,9588056962,0,1434.3000000000002
+527,13965,2024-09-11,PersianWeavers,Belgrade,725491,8x11,8,816.15,135.79,680.36,Contemporary,Distressed,Brown,Red,Printed,Polyester,1,9588056962,0,1434.3000000000002
+528,13971,2024-12-10,OrientalWeavers,Gaborone,943686,4x6,4,358.41,0.0,358.41,Transitional,Solid,Taupe,Beige,HM,Wool,1,6953053699,0,358.41
+529,13972,2022-12-03,Artisan,Riyadh,361845,12x15,12,2021.85,373.75,1648.1,Traditional,Ornate,Blue,Navy,MM,Wool,1,5522227392,1,1648.1
+530,13978,2023-09-26,Couristan,Algiers,349727,10x14,10,1163.97,203.84,960.13,Traditional,Oushak,Red,Gold,Printed,Polypropylene,1,9560938413,1,960.13
+531,13980,2024-01-12,PersianWeavers,Dakar,165854,10x14,10,1247.59,128.2,1119.39,Transitional,Geometric,Taupe,Gold,Printed,Polyester,0,3487332175,1,1119.39
+532,13986,2022-10-16,Orian,Quito,503652,4x6,4,341.57,0.0,341.57,Contemporary,Solid,Navy,Ivory,HM,Wool,0,9733920486,1,341.57
+533,13987,2024-03-08,Rizzy,Berlin,275952,12x15,12,1821.34,319.95,1501.39,Traditional,Oushak,Navy,Beige,tufted,Wool,0,7109168660,1,1501.39
+534,13988,2024-06-08,PersianWeavers,Muscat,170373,10x14,10,1317.01,250.84,1066.17,Transitional,Distressed,Red,Gold,HM,Wool,1,2756924765,1,1066.17
+535,13992,2024-05-17,OrientalWeavers,Yerevan,732477,6'7x9'6,6,409.48,0.0,409.48,Traditional,Geometric,Ivory,Green,HM,Wool,0,2186399006,0,409.48
+536,13993,2023-04-11,Kas,Kuwait City,998742,10x14,10,1099.64,141.19,958.45,Traditional,Medallion,Navy,Ivory,HM,Wool,0,5997715481,1,958.45
+537,14003,2022-04-26,PersianWeavers,Skopje,622920,4x6,4,412.75,0.0,412.75,Transitional,Abstract,Blue,Gold,Printed,Polyester,1,3905580846,1,932.09
+538,14003,2024-06-16,Kas,Kingston,355337,6'7x9'6,6,519.34,0.0,519.34,Traditional,Distressed,Taupe,Blue,HM,Wool,1,3905580846,0,932.09
+539,14007,2022-07-02,Karastan,New Delhi,739585,12x15,12,1806.98,191.08,1615.9,Contemporary,Geometric,Ivory,Brown,MM,Wool,1,9080843793,0,1615.9
+540,14010,2024-03-03,Karastan,Basseterre,268875,4x6,4,379.23,0.0,379.23,Traditional,Ornate,Ivory,Gold,HM,Wool,1,6388486908,1,379.23
+541,14012,2023-06-06,PersianWeavers,Bridgetown,527876,8x11,8,748.54,131.45,617.09,Traditional,Abstract,Beige,Taupe,HM,Wool,0,6016239088,1,617.09
+542,14014,2023-11-13,Karastan,Tehran,860274,6'7x9'6,6,520.32,0.0,520.32,Transitional,Geometric,Gray,Gold,Printed,Polyester,1,8204937011,1,520.32
+543,14019,2022-02-05,Dalyn,Prague,209379,12x15,12,1897.86,298.51,1599.35,Transitional,Distressed,Red,Gray,MM,Polypropylene,1,5663383038,0,1599.35
+544,14026,2024-05-17,Kas,Manama,769263,12x15,12,1899.8,285.57,1614.23,Transitional,Abstract,Blue,Gold,MM,Polyester,1,3809108665,1,1614.23
+545,14031,2023-01-08,Surya,Lusaka,759365,6'7x9'6,6,562.98,0.0,562.98,Traditional,Ornate,Ivory,Beige,tufted,Wool,0,3423345954,1,562.98
+546,14035,2022-10-05,PersianWeavers,Tbilisi,886935,10x14,10,1157.14,203.33,953.81,Contemporary,Solid,Brown,Green,tufted,Wool,1,2127645901,1,953.81
+547,14039,2023-03-23,PersianWeavers,Belgrade,209654,12x15,12,1924.21,248.49,1675.72,Traditional,Ornate,Green,Brown,Printed,Polyester,0,1634205787,0,2082.88
+548,14039,2024-11-12,Karastan,Basseterre,829468,6'7x9'6,6,407.16,0.0,407.16,Traditional,Oushak,Green,Green,HM,Wool,0,1634205787,0,2082.88
+549,14044,2023-12-31,PersianWeavers,Maputo,626128,6'7x9'6,6,480.86,0.0,480.86,Contemporary,Distressed,Green,Navy,MM,Polyester,1,4521837187,1,480.86
+550,14047,2023-06-04,OrientalWeavers,Ulaanbaatar,840954,12x15,12,1935.04,219.58,1715.46,Transitional,Distressed,Beige,Brown,Printed,Polyester,0,1018539148,1,1715.46
+551,14048,2024-06-27,Rizzy,Warsaw,918845,6'7x9'6,6,489.09,0.0,489.09,Contemporary,Distressed,Gray,Red,tufted,Wool,0,6785841535,1,489.09
+552,14049,2023-01-16,OrientalWeavers,Kampala,384736,4x6,4,331.92,0.0,331.92,Traditional,Kazak,Blue,Taupe,MM,Wool,1,1274909402,1,331.92
+553,14051,2024-08-18,Karastan,Tehran,611295,8x11,8,810.22,143.94,666.28,Contemporary,Geometric,Blue,Gold,tufted,Wool,1,4913355653,0,666.28
+554,14053,2023-04-08,Artisan,Moscow,422769,4x6,4,366.28,0.0,366.28,Contemporary,Heriz,Ivory,Navy,HM,Wool,0,2452206642,0,366.28
+555,14057,2022-12-27,Orian,Manila,239236,6'7x9'6,6,520.5,0.0,520.5,Traditional,Oushak,Blue,Red,tufted,Wool,1,7202570582,1,520.5
+556,14063,2022-04-24,Rizzy,Dhaka,953097,4x6,4,324.31,0.0,324.31,Traditional,Heriz,Beige,Navy,HM,Wool,0,3771546273,0,324.31
+557,14085,2023-02-01,OrientalWeavers,Nassau,694815,10x14,10,1196.58,156.71,1039.87,Traditional,Geometric,Taupe,Green,tufted,Wool,1,6052397650,1,1039.87
+558,14089,2023-04-10,DynamicRugs,Tirana,675094,6'7x9'6,6,520.96,103.06,417.9,Traditional,Kazak,Navy,Blue,HM,Wool,0,8666458041,1,417.9
+559,14099,2023-10-10,Artisan,Zagreb,301526,4x6,4,396.88,0.0,396.88,Contemporary,Heriz,Red,Taupe,MM,Polyester,1,4805450327,1,396.88
+560,14109,2023-10-25,OrientalWeavers,Athens,341671,6'7x9'6,6,470.33,0.0,470.33,Traditional,Medallion,Blue,Brown,HM,Wool,0,1592560901,1,470.33
+561,14112,2023-02-27,Orian,Abuja,387708,4x6,4,396.84,0.0,396.84,Traditional,Medallion,Ivory,Navy,Printed,Polyester,1,7214387010,0,754.52
+562,14112,2023-05-21,DynamicRugs,Copenhagen,292771,4x6,4,357.68,0.0,357.68,Traditional,Ornate,Gray,Red,Printed,Polyester,0,7214387010,0,754.52
+563,14113,2023-05-15,Artisan,Moscow,254377,12x15,12,1867.46,285.09,1582.37,Traditional,Heriz,Gold,Green,tufted,Wool,1,2649573715,0,1929.2399999999998
+564,14113,2024-12-16,Dalyn,Ljubljana,151863,4x6,4,346.87,0.0,346.87,Transitional,Abstract,Gray,Navy,tufted,Wool,1,2649573715,1,1929.2399999999998
+565,14114,2024-08-16,PersianWeavers,Windhoek,848936,6'7x9'6,6,444.82,0.0,444.82,Traditional,Oushak,Blue,Gray,HM,Wool,0,8366628114,0,444.82
+566,14117,2022-03-08,Artisan,Riyadh,592575,4x6,4,381.37,0.0,381.37,Traditional,Medallion,Beige,Taupe,MM,Wool,1,6783626452,1,854.87
+567,14117,2024-07-19,Dalyn,Port-au-Prince,675947,6'7x9'6,6,473.5,0.0,473.5,Traditional,Kazak,Green,Red,Printed,Polypropylene,0,6783626452,1,854.87
+568,14119,2024-10-21,Rizzy,Bern,481413,6'7x9'6,6,498.44,0.0,498.44,Traditional,Kazak,Beige,Gold,Printed,Polyester,1,5963020668,0,498.44
+569,14128,2023-04-03,Karastan,New Delhi,798870,6'7x9'6,6,520.22,0.0,520.22,Traditional,Ornate,Beige,Gray,tufted,Wool,0,7070123929,0,520.22
+570,14130,2022-07-23,Karastan,Honiara,194413,4x6,4,395.83,0.0,395.83,Traditional,Distressed,Red,Ivory,Printed,Polyester,0,6473371481,1,1056.0
+571,14130,2022-09-20,Couristan,Sarajevo,733194,8 Round,8,818.47,158.3,660.17,Traditional,Oushak,Blue,Blue,HM,Wool,0,6473371481,1,1056.0
+572,14133,2023-03-13,Rizzy,Warsaw,686072,10x14,10,1221.96,209.74,1012.22,Traditional,Ornate,Navy,Brown,MM,Polyester,1,6369457429,0,1012.22
+573,14135,2024-10-31,Kas,Hanoi,454869,10x14,10,1218.01,233.3,984.71,Traditional,Kazak,Beige,Ivory,tufted,Wool,0,9035862371,0,984.71
+574,14136,2023-11-05,Rizzy,Apia,963289,6'7x9'6,6,361.19,0.0,361.19,Traditional,Ornate,Ivory,Navy,HM,Wool,1,7027394392,1,361.19
+575,14140,2023-05-03,DynamicRugs,Santo Domingo,394023,4x6,4,337.6,0.0,337.6,Traditional,Oushak,Brown,Red,HM,Wool,1,1287543258,1,1357.29
+576,14140,2024-03-11,Artisan,Sofia,641910,10x14,10,1241.62,221.93,1019.69,Transitional,Solid,Brown,Navy,tufted,Wool,0,1287543258,0,1357.29
+577,14141,2022-08-06,Kas,Minsk,208375,8x10,8,762.11,127.87,634.24,Transitional,Abstract,Green,Ivory,HM,Wool,1,1914262978,0,2820.72
+578,14141,2024-04-06,Orian,Luanda,936708,12x15,12,1915.49,338.69,1576.8,Traditional,Oushak,Red,Navy,HM,Wool,0,1914262978,0,2820.72
+579,14141,2024-07-14,Karastan,Tehran,951775,8x10,8,752.99,143.31,609.68,Transitional,Geometric,Navy,Gray,MM,Wool,0,1914262978,1,2820.72
+580,14147,2024-09-19,PersianWeavers,Georgetown,714712,4x6,4,270.24,0.0,270.24,Traditional,Ornate,Beige,Gold,Printed,Polyester,0,2603872824,0,270.24
+581,14153,2023-02-18,DynamicRugs,Djibouti,957543,8x11,8,833.85,145.21,688.64,Transitional,Distressed,Green,Beige,tufted,Wool,0,6093896366,1,688.64
+582,14154,2022-11-13,DynamicRugs,Tripoli,154614,12x15,12,1919.92,248.7,1671.22,Contemporary,Heriz,Gold,Taupe,tufted,Wool,1,5101904320,1,1671.22
+583,14158,2024-01-27,Couristan,Chisinau,720959,4x6,4,369.48,0.0,369.48,Traditional,Kazak,Ivory,Gold,Printed,Polyester,0,5994211287,0,369.48
+584,14162,2022-09-24,OrientalWeavers,Ulaanbaatar,410931,4x6,4,295.51,0.0,295.51,Contemporary,Heriz,Blue,Brown,HM,Wool,0,4797620352,1,295.51
+585,14163,2022-09-25,OrientalWeavers,Phnom Penh,132266,6'7x9'6,6,467.87,0.0,467.87,Traditional,Ornate,Beige,Red,Printed,Polyester,1,5285668665,1,467.87
+586,14167,2022-11-09,Kas,Thimphu,572947,6'7x9'6,6,481.2,0.0,481.2,Traditional,Ornate,Beige,Gray,HM,Wool,1,6662893311,1,3076.58
+587,14167,2023-05-29,Artisan,Damascus,132489,10x14,10,1210.4,197.64,1012.76,Traditional,Ornate,Beige,Ivory,tufted,Wool,1,6662893311,1,3076.58
+588,14167,2024-09-27,Dalyn,Tallinn,103693,12x15,12,1901.99,319.37,1582.62,Transitional,Abstract,Brown,Ivory,HM,Wool,0,6662893311,0,3076.58
+589,14169,2022-01-27,Artisan,Helsinki,389724,4x6,4,352.18,0.0,352.18,Transitional,Solid,Taupe,Navy,MM,Polyester,1,1769735866,0,352.18
+590,14172,2024-07-15,PersianWeavers,Port Louis,729226,8x11,8,693.19,0.0,693.19,Traditional,Heriz,Taupe,Taupe,MM,Polyester,0,6249841422,0,693.19
+591,14178,2023-12-03,PersianWeavers,Belgrade,817396,8x10,8,779.1,109.14,669.96,Contemporary,Heriz,Beige,Taupe,MM,Polypropylene,0,8261429105,1,669.96
+592,14182,2023-06-18,DynamicRugs,Copenhagen,916869,12x15,12,1923.16,261.75,1661.41,Traditional,Oushak,Green,Brown,MM,Polyester,1,6493789937,1,1661.41
+593,14196,2023-06-02,Surya,Havana,461105,12x15,12,1881.47,333.93,1547.54,Traditional,Medallion,Gold,Red,HM,Wool,1,6891152181,0,1547.54
+594,14201,2024-06-27,OrientalWeavers,Libreville,760001,4x6,4,419.09,0.0,419.09,Contemporary,Geometric,Beige,Beige,tufted,Wool,0,6317223369,1,419.09
+595,14208,2022-12-14,OrientalWeavers,Athens,505156,6'7x9'6,6,491.84,0.0,491.84,Traditional,Medallion,Brown,Ivory,HM,Wool,0,5722526609,1,491.84
+596,14218,2024-01-17,Kas,Minsk,489587,8x10,8,751.73,0.0,751.73,Contemporary,Geometric,Gold,Gray,HM,Wool,0,6247950226,1,751.73
+597,14219,2024-02-21,Surya,Victoria,167604,10x14,10,1242.55,136.76,1105.79,Contemporary,Geometric,Navy,Green,MM,Wool,0,5598410751,0,1105.79
+598,14221,2024-03-25,Kas,Minsk,781509,6'7x9'6,6,483.28,0.0,483.28,Traditional,Solid,Navy,Gray,tufted,Wool,0,9949122776,0,483.28
+599,14222,2024-10-23,Kas,Kuwait City,978371,6'7x9'6,6,495.65,0.0,495.65,Traditional,Ornate,Taupe,Green,tufted,Wool,1,1223331887,0,1263.5900000000001
+600,14222,2024-12-25,Couristan,Lima,894796,8x10,8,877.2,109.26,767.94,Traditional,Ornate,Red,Brown,MM,Polypropylene,0,1223331887,1,1263.5900000000001
+601,14225,2023-10-24,Orian,Ashgabat,827771,8 Round,8,784.8,0.0,784.8,Traditional,Ornate,Gold,Gray,tufted,Wool,1,2209781619,0,784.8
+602,14228,2023-12-11,Dalyn,Beijing,198779,4x6,4,338.64,0.0,338.64,Traditional,Ornate,Navy,Brown,HM,Wool,0,5032180953,0,338.64
+603,14232,2024-01-11,Rizzy,Vienna,460811,12x15,12,1872.45,299.36,1573.09,Traditional,Solid,Green,Green,MM,Wool,0,4429446730,0,1573.09
+604,14246,2022-09-13,Couristan,Panama City,653366,10x14,10,1273.2,206.19,1067.01,Traditional,Ornate,Red,Gold,MM,Polypropylene,0,7453387565,1,1067.01
+605,14247,2023-12-08,Rizzy,Bogota,233649,6'7x9'6,6,511.85,101.93,409.92,Transitional,Heriz,Brown,Gold,HM,Wool,1,4991554340,1,409.92
+606,14255,2022-12-01,Rizzy,Apia,700003,6'7x9'6,6,457.4,0.0,457.4,Traditional,Ornate,Beige,Brown,tufted,Wool,0,2312738783,0,457.4
+607,14260,2024-08-21,Orian,Dublin,287534,10x14,10,1188.42,163.94,1024.48,Traditional,Geometric,Brown,Gray,tufted,Wool,1,9859916789,0,1024.48
+608,14262,2023-01-21,Karastan,Buenos Aires,155043,8 Round,8,758.08,108.47,649.61,Transitional,Distressed,Gray,Ivory,tufted,Wool,0,1472166939,1,2330.3
+609,14262,2023-03-20,Rizzy,Bogota,909231,12x15,12,1885.23,204.54,1680.69,Contemporary,Abstract,Brown,Green,HM,Wool,1,1472166939,0,2330.3
+610,14263,2022-11-10,OrientalWeavers,Nassau,977777,12x15,12,1886.49,320.84,1565.65,Contemporary,Abstract,Brown,Navy,HM,Wool,0,3166031934,1,1565.65
+611,14265,2022-12-10,Dalyn,Bamako,983844,8x10,8,867.37,0.0,867.37,Traditional,Heriz,Red,Green,Printed,Polyester,1,6888712222,1,867.37
+612,14266,2024-04-26,Rizzy,Berlin,463398,6'7x9'6,6,488.06,0.0,488.06,Traditional,Oushak,Navy,Ivory,HM,Wool,0,1830563748,0,488.06
+613,14268,2022-04-01,OrientalWeavers,Ulaanbaatar,153619,6'7x9'6,6,496.87,0.0,496.87,Traditional,Oushak,Navy,Ivory,Printed,Polypropylene,1,1384024987,0,1267.9299999999998
+614,14268,2023-10-30,Couristan,Sarajevo,579016,8x10,8,771.06,0.0,771.06,Contemporary,Distressed,Gold,Gold,tufted,Wool,1,1384024987,0,1267.9299999999998
+615,14272,2022-02-08,Karastan,Tehran,487975,10x14,10,1069.83,159.57,910.26,Contemporary,Geometric,Red,Ivory,HM,Wool,1,4569721095,0,910.26
+616,14285,2024-02-17,Karastan,Moroni,473046,10x14,10,1195.61,127.05,1068.56,Traditional,Medallion,Gray,Red,MM,Polypropylene,1,9319955105,0,1068.56
+617,14291,2022-02-09,Karastan,Bratislava,115562,4x6,4,396.0,0.0,396.0,Traditional,Solid,Taupe,Blue,HM,Wool,0,8311957254,1,396.0
+618,14303,2023-06-22,Karastan,London,669449,8x10,8,734.78,120.69,614.09,Traditional,Medallion,Ivory,Gold,HM,Wool,0,1449934306,0,614.09
+619,14304,2024-06-17,Kas,Minsk,826195,12x15,12,1926.86,356.94,1569.92,Traditional,Medallion,Ivory,Green,tufted,Wool,0,4666316032,0,1569.92
+620,14308,2022-08-08,Dalyn,Suva,459733,12x15,12,1970.14,265.69,1704.45,Traditional,Kazak,Navy,Red,Printed,Polyester,0,1076355636,0,1704.45
+621,14310,2022-03-05,Couristan,Madrid,849322,10x14,10,1115.36,181.6,933.76,Contemporary,Distressed,Blue,Navy,MM,Wool,0,5817982980,1,933.76
+622,14313,2022-01-27,Orian,Doha,484003,6'7x9'6,6,504.24,0.0,504.24,Contemporary,Solid,Green,Gray,MM,Polyester,1,8391264337,1,504.24
+623,14314,2022-09-12,Rizzy,Kabul,835137,12x15,12,1893.98,211.84,1682.14,Contemporary,Solid,Gray,Ivory,HM,Wool,0,2833208390,1,1682.14
+624,14316,2024-01-30,Surya,Havana,100518,4x6,4,325.25,0.0,325.25,Traditional,Medallion,Gold,Taupe,tufted,Wool,0,8797591798,1,325.25
+625,14318,2022-01-04,Dalyn,Paramaribo,246086,12x15,12,1890.9,249.05,1641.85,Traditional,Geometric,Brown,Red,MM,Wool,0,4805841830,0,2300.43
+626,14318,2022-08-29,Couristan,Asuncion,317486,8x11,8,802.34,143.76,658.58,Contemporary,Geometric,Gray,Gold,tufted,Wool,1,4805841830,0,2300.43
+627,14327,2023-12-21,DynamicRugs,Canberra,797259,6'7x9'6,6,495.99,0.0,495.99,Transitional,Heriz,Navy,Gold,Printed,Polypropylene,0,9657338969,1,903.11
+628,14327,2024-03-01,DynamicRugs,Tripoli,696852,4x6,4,407.12,0.0,407.12,Traditional,Oushak,Gray,Blue,MM,Polypropylene,1,9657338969,0,903.11
+629,14330,2023-08-24,Rizzy,Cairo,455522,6'7x9'6,6,414.98,0.0,414.98,Contemporary,Geometric,Green,Blue,MM,Polypropylene,0,6400955389,1,414.98
+630,14332,2023-04-01,Couristan,Taipei,281949,12x15,12,1960.53,373.95,1586.58,Contemporary,Heriz,Red,Blue,tufted,Wool,1,4602307912,0,1586.58
+631,14336,2024-08-28,Rizzy,Berlin,229648,4x6,4,285.84,0.0,285.84,Traditional,Ornate,Navy,Red,MM,Polyester,0,1946554992,0,285.84
+632,14346,2022-02-04,Couristan,Dodoma,667260,8x11,8,737.58,0.0,737.58,Traditional,Ornate,Red,Navy,Printed,Polypropylene,1,8025015207,0,737.58
+633,14349,2023-01-08,Kas,Thimphu,845407,4x6,4,397.22,0.0,397.22,Traditional,Heriz,Navy,Beige,MM,Polyester,0,7593685598,0,397.22
+634,14350,2024-07-02,Orian,Dublin,354995,12x15,12,1916.7,321.3,1595.4,Traditional,Oushak,Taupe,Blue,tufted,Wool,1,2899700676,0,1595.4
+635,14352,2024-06-18,Orian,Manila,171146,12x15,12,1898.28,319.74,1578.54,Transitional,Geometric,Ivory,Navy,Printed,Polypropylene,1,7417364878,1,1578.54
+636,14353,2023-07-28,Orian,Ashgabat,209497,8x10,8,793.58,151.38,642.2,Traditional,Oushak,Taupe,Brown,HM,Wool,1,8531224879,0,642.2
+637,14355,2024-01-06,Orian,Abuja,719173,8x10,8,762.04,0.0,762.04,Traditional,Oushak,Green,Navy,MM,Wool,0,6706675445,1,1269.09
+638,14355,2024-12-04,Dalyn,Bamako,383583,6'7x9'6,6,507.05,0.0,507.05,Traditional,Oushak,Brown,Gray,MM,Polypropylene,1,6706675445,0,1269.09
+639,14362,2022-09-13,DynamicRugs,Tirana,375830,10x14,10,1221.6,183.97,1037.63,Traditional,Oushak,Taupe,Green,tufted,Wool,0,5654567322,1,1037.63
+640,14365,2023-12-16,Couristan,Taipei,608473,8x10,8,884.81,175.37,709.44,Contemporary,Geometric,Gray,Blue,HM,Wool,0,1454466532,1,709.44
+641,14371,2022-04-30,Karastan,Honiara,409769,6'7x9'6,6,481.39,0.0,481.39,Traditional,Medallion,Beige,Blue,Printed,Polypropylene,0,4193167957,1,481.39
+642,14376,2023-10-21,Karastan,La Paz,163845,8x10,8,815.48,139.63,675.85,Traditional,Kazak,Green,Brown,MM,Wool,0,5062903996,1,953.85
+643,14376,2024-09-09,Karastan,Castries,713269,4x6,4,278.0,0.0,278.0,Traditional,Distressed,Beige,Blue,HM,Wool,0,5062903996,0,953.85
+644,14378,2023-07-27,Surya,Lusaka,885314,6'7x9'6,6,429.82,0.0,429.82,Traditional,Ornate,Gold,Red,MM,Polyester,0,3181315844,0,429.82
+645,14383,2022-12-23,Artisan,Ottawa,327161,6'7x9'6,6,505.63,0.0,505.63,Contemporary,Abstract,Taupe,Blue,HM,Wool,0,2487184313,0,505.63
+646,14386,2023-08-25,Couristan,Antananarivo,673656,6'7x9'6,6,531.92,0.0,531.92,Traditional,Solid,Taupe,Green,HM,Wool,0,3355519418,1,531.92
+647,14388,2023-12-26,Kas,Guatemala City,408017,6'7x9'6,6,511.46,0.0,511.46,Transitional,Solid,Red,Beige,Printed,Polypropylene,1,1552714716,1,511.46
+648,14389,2022-02-24,Dalyn,Prague,347687,10x14,10,1191.86,146.8,1045.06,Traditional,Heriz,Red,Gray,tufted,Wool,1,4013955626,0,1045.06
+649,14392,2022-10-23,Couristan,Madrid,909324,4x6,4,397.39,0.0,397.39,Traditional,Oushak,Blue,Red,MM,Polyester,0,7117399908,0,397.39
+650,14403,2023-01-04,Karastan,Roseau,317791,8x10,8,833.21,138.95,694.26,Transitional,Heriz,Blue,Taupe,Printed,Polypropylene,1,3361839825,1,694.26
+651,14406,2022-03-17,Surya,Lusaka,974724,4x6,4,328.44,0.0,328.44,Traditional,Oushak,Gold,Gold,MM,Wool,1,9613004983,1,328.44
+652,14411,2023-06-03,Rizzy,Conakry,863343,10x14,10,1243.64,179.42,1064.22,Contemporary,Distressed,Gray,Red,tufted,Wool,0,4233719705,0,1064.22
+653,14415,2024-11-25,Surya,Havana,280373,8x11,8,828.75,165.07,663.68,Transitional,Abstract,Red,Green,MM,Wool,0,6306248878,1,663.68
+654,14419,2023-03-14,Kas,Kingston,987967,10x14,10,1192.7,127.59,1065.11,Traditional,Geometric,Gray,Red,HM,Wool,1,4265003462,0,1354.1799999999998
+655,14419,2023-08-09,Orian,Dublin,388042,4x6,4,289.07,0.0,289.07,Traditional,Kazak,Gray,Red,HM,Wool,1,4265003462,1,1354.1799999999998
+656,14422,2022-09-05,Artisan,Riyadh,516813,12x15,12,1953.17,320.11,1633.06,Traditional,Ornate,Brown,Taupe,tufted,Wool,1,7587026547,1,2583.8
+657,14422,2024-02-03,Couristan,Banjul,690431,10x14,10,1097.66,146.92,950.74,Contemporary,Geometric,Gold,Taupe,tufted,Wool,0,7587026547,1,2583.8
+658,14423,2023-05-21,Kas,Mogadishu,663949,6'7x9'6,6,476.17,0.0,476.17,Traditional,Kazak,Green,Red,tufted,Wool,1,7934655332,0,476.17
+659,14427,2022-03-02,Rizzy,Tegucigalpa,770697,12x15,12,1985.14,318.21,1666.93,Traditional,Oushak,Taupe,Gold,MM,Polyester,1,9458214487,0,2639.05
+660,14427,2022-04-15,Karastan,Basseterre,822793,10x14,10,1080.64,108.52,972.12,Transitional,Solid,Red,Red,tufted,Wool,1,9458214487,0,2639.05
+661,14436,2024-07-12,Couristan,Banjul,459705,4x6,4,250.61,0.0,250.61,Transitional,Distressed,Gold,Navy,tufted,Wool,0,4414302356,1,250.61
+662,14440,2024-06-22,DynamicRugs,Reykjavik,455156,10x14,10,1260.78,221.57,1039.21,Traditional,Medallion,Beige,Navy,Printed,Polyester,1,7048493236,0,1039.21
+663,14442,2022-12-17,OrientalWeavers,Libreville,733879,10x14,10,1193.12,222.38,970.74,Traditional,Abstract,Gray,Blue,tufted,Wool,0,1628487621,1,970.74
+664,14459,2022-07-12,Karastan,London,881976,6'7x9'6,6,436.82,0.0,436.82,Transitional,Solid,Red,Brown,HM,Wool,0,7416885988,0,436.82
+665,14462,2024-09-29,Kas,Rome,559832,4x6,4,251.56,0.0,251.56,Traditional,Ornate,Red,Gray,Printed,Polyester,1,6166892802,1,251.56
+666,14475,2023-12-01,Orian,Dublin,416884,8x10,8,789.3,0.0,789.3,Contemporary,Geometric,Gray,Ivory,HM,Wool,0,4836899630,0,789.3
+667,14478,2022-04-29,Dalyn,Astana,843553,8x11,8,712.74,136.59,576.15,Traditional,Kazak,Beige,Gray,HM,Wool,1,9556861098,0,576.15
+668,14483,2022-09-23,Artisan,Belmopan,594753,6'7x9'6,6,552.5,0.0,552.5,Contemporary,Geometric,Brown,Ivory,HM,Wool,0,3718693020,1,552.5
+669,14488,2022-07-24,Kas,Wellington,650865,6'7x9'6,6,501.01,0.0,501.01,Transitional,Heriz,Gold,Blue,Printed,Polyester,1,3618809959,0,501.01
+670,14489,2022-08-16,Dalyn,Seoul,147627,6'7x9'6,6,582.97,0.0,582.97,Transitional,Solid,Red,Gray,Printed,Polypropylene,1,4674037535,0,582.97
+671,14491,2024-06-24,DynamicRugs,Harare,210543,4x6,4,300.55,0.0,300.55,Traditional,Abstract,Gold,Green,HM,Wool,1,7712823970,1,300.55
+672,14496,2022-08-22,Orian,Brussels,399545,6'7x9'6,6,553.48,0.0,553.48,Traditional,Medallion,Gold,Taupe,Printed,Polyester,0,4014967715,1,1206.93
+673,14496,2022-10-03,Couristan,Chisinau,704245,8x10,8,803.28,149.83,653.45,Contemporary,Solid,Green,Navy,Printed,Polypropylene,1,4014967715,0,1206.93
+674,14497,2024-04-27,Artisan,Helsinki,425212,4x6,4,273.31,0.0,273.31,Contemporary,Geometric,Navy,Gold,HM,Wool,0,2343853631,0,273.31
+675,14504,2022-10-04,Surya,Stockholm,768757,4x6,4,290.68,0.0,290.68,Traditional,Medallion,Brown,Navy,HM,Wool,0,8145882642,1,290.68
+676,14508,2023-02-03,Rizzy,Dhaka,764669,8x10,8,835.88,110.44,725.44,Contemporary,Heriz,Navy,Navy,Printed,Polypropylene,0,3886903766,0,725.44
+677,14512,2022-05-29,Kas,San Marino,706415,10x14,10,1270.5,185.01,1085.49,Traditional,Solid,Taupe,Navy,MM,Polypropylene,0,5356628514,0,1085.49
+678,14515,2022-12-03,Orian,Luanda,404061,12x15,12,1953.78,307.88,1645.9,Transitional,Abstract,Gray,Ivory,tufted,Wool,0,5337514927,1,1645.9
+679,14519,2023-03-22,Orian,Pretoria,883293,8x10,8,816.76,0.0,816.76,Traditional,Abstract,Ivory,Red,HM,Wool,1,9270598354,0,1327.92
+680,14519,2023-05-08,Surya,Nouakchott,338787,6'7x9'6,6,511.16,0.0,511.16,Traditional,Ornate,Taupe,Beige,tufted,Wool,1,9270598354,1,1327.92
+681,14520,2022-06-17,Orian,Ashgabat,995501,6'7x9'6,6,572.82,0.0,572.82,Traditional,Medallion,Navy,Green,Printed,Polyester,0,6214344479,1,572.82
+682,14521,2023-03-29,PersianWeavers,Port Louis,494519,4x6,4,368.87,0.0,368.87,Traditional,Medallion,Gray,Red,HM,Wool,1,8365646856,0,809.2
+683,14521,2023-03-30,Artisan,Amsterdam,892235,4x6,4,440.33,0.0,440.33,Traditional,Heriz,Red,Taupe,Printed,Polyester,0,8365646856,0,809.2
+684,14524,2022-09-21,Rizzy,Brasilia,503769,6'7x9'6,6,508.01,0.0,508.01,Transitional,Abstract,Taupe,Taupe,HM,Wool,1,5037082509,0,950.49
+685,14524,2023-03-09,Karastan,New Delhi,367331,6'7x9'6,6,442.48,0.0,442.48,Traditional,Kazak,Beige,Brown,Printed,Polyester,1,5037082509,0,950.49
+686,14530,2022-07-03,Dalyn,Ljubljana,695573,8x10,8,857.89,0.0,857.89,Transitional,Distressed,Brown,Brown,tufted,Wool,1,7931468506,0,857.89
+687,14534,2022-10-04,PersianWeavers,Skopje,227423,8x11,8,778.34,0.0,778.34,Transitional,Abstract,Blue,Gray,Printed,Polypropylene,0,8876186660,1,778.34
+688,14539,2022-05-24,Couristan,Sarajevo,673131,12x15,12,1957.3,315.26,1642.04,Transitional,Solid,Navy,Gray,MM,Wool,0,9335505629,1,1642.04
+689,14544,2024-08-06,OrientalWeavers,Yerevan,638476,6'7x9'6,6,509.47,0.0,509.47,Transitional,Abstract,Red,Blue,Printed,Polyester,1,2003983672,0,509.47
+690,14545,2022-11-25,Kas,Minsk,285529,4x6,4,427.34,0.0,427.34,Traditional,Medallion,Blue,Gold,tufted,Wool,0,4679418977,1,427.34
+691,14551,2024-08-31,Couristan,Antananarivo,886762,8 Round,8,807.15,113.89,693.26,Traditional,Ornate,Blue,Brown,Printed,Polypropylene,0,3595765736,1,693.26
+692,14553,2023-02-22,Rizzy,Cairo,187297,12x15,12,1847.29,250.8,1596.49,Traditional,Distressed,Gold,Gray,Printed,Polyester,0,4431019461,0,1596.49
+693,14559,2022-07-14,Dalyn,Tunis,323532,4x6,4,306.33,0.0,306.33,Transitional,Abstract,Gray,Gold,Printed,Polypropylene,0,6245779668,0,306.33
+694,14560,2022-10-09,Karastan,La Paz,466679,12x15,12,1902.98,307.12,1595.86,Traditional,Kazak,Ivory,Gray,tufted,Wool,0,7775064161,1,1595.86
+695,14563,2024-03-15,Kas,Minsk,215417,12x15,12,1994.59,377.81,1616.78,Contemporary,Abstract,Taupe,Beige,HM,Wool,1,5486639171,0,1616.78
+696,14568,2024-01-29,Orian,Andorra la Vella,468189,10x14,10,1260.44,156.86,1103.58,Traditional,Heriz,Brown,Red,Printed,Polyester,1,7111227097,1,1103.58
+697,14581,2023-12-22,Artisan,Helsinki,932675,6'7x9'6,6,468.31,0.0,468.31,Traditional,Abstract,Taupe,Brown,HM,Wool,1,9619517021,1,468.31
+698,14583,2024-04-10,PersianWeavers,Belgrade,594170,6'7x9'6,6,435.42,0.0,435.42,Contemporary,Solid,Gray,Red,HM,Wool,1,5565321933,1,1952.99
+699,14583,2024-09-26,DynamicRugs,Kigali,962946,12x15,12,1851.02,333.45,1517.57,Traditional,Oushak,Navy,Brown,Printed,Polyester,0,5565321933,0,1952.99
+700,14586,2023-01-31,Rizzy,Vientiane,226633,6'7x9'6,6,487.85,0.0,487.85,Traditional,Oushak,Gray,Taupe,tufted,Wool,1,8039827177,1,487.85
+701,14590,2022-10-07,Orian,Ashgabat,626220,10x14,10,1292.22,239.63,1052.59,Traditional,Geometric,Ivory,Ivory,Printed,Polypropylene,0,1831670062,0,1052.59
+702,14600,2024-12-28,Rizzy,"Washington, D.C.",631410,8x11,8,810.37,112.91,697.46,Contemporary,Solid,Ivory,Taupe,HM,Wool,0,7242573176,1,697.46
+703,14601,2023-06-28,Artisan,Zagreb,536864,12x15,12,1902.42,232.42,1670.0,Transitional,Distressed,Green,Ivory,MM,Wool,0,1247800737,1,1670.0
+704,14602,2022-08-21,Orian,Andorra la Vella,949931,8 Round,8,798.98,144.46,654.52,Contemporary,Geometric,Navy,Blue,HM,Wool,1,7374059909,1,1128.95
+705,14602,2023-03-02,DynamicRugs,Kigali,591668,6'7x9'6,6,474.43,0.0,474.43,Traditional,Oushak,Blue,Brown,tufted,Wool,1,7374059909,1,1128.95
+706,14603,2023-08-04,Dalyn,Astana,869456,4x6,4,359.47,0.0,359.47,Contemporary,Abstract,Taupe,Red,HM,Wool,0,4801622671,0,359.47
+707,14621,2023-01-04,Kas,Mogadishu,712449,6'7x9'6,6,488.19,0.0,488.19,Traditional,Heriz,Ivory,Green,tufted,Wool,0,7020789807,0,488.19
+708,14625,2022-05-12,Karastan,Buenos Aires,980375,8 Round,8,744.42,140.04,604.38,Contemporary,Abstract,Red,Gray,MM,Wool,0,5816980750,1,604.38
+709,14630,2024-08-20,OrientalWeavers,Athens,607157,10x14,10,1213.5,231.9,981.6,Traditional,Oushak,Taupe,Green,MM,Wool,0,5341225395,1,981.6
+710,14638,2022-04-10,Rizzy,Kabul,197004,4x6,4,346.77,0.0,346.77,Traditional,Oushak,Red,Navy,tufted,Wool,1,4428765213,1,346.77
+711,14644,2024-02-08,PersianWeavers,Bridgetown,204986,8x10,8,787.28,0.0,787.28,Traditional,Oushak,Red,Taupe,Printed,Polyester,0,2983677333,1,787.28
+712,14650,2024-05-31,Couristan,Banjul,550024,12x15,12,1865.43,305.74,1559.69,Traditional,Oushak,Red,Beige,tufted,Wool,1,1078822224,1,1559.69
+713,14657,2023-02-07,PersianWeavers,Islamabad,126125,4x6,4,355.08,0.0,355.08,Traditional,Abstract,Gold,Brown,HM,Wool,0,8858501665,1,355.08
+714,14658,2023-09-13,Kas,Budapest,555344,10x14,10,1217.53,174.7,1042.83,Traditional,Medallion,Green,Taupe,MM,Polyester,0,6219714594,1,1042.83
+715,14669,2023-05-20,Orian,Jakarta,192869,10x14,10,1116.28,172.97,943.31,Traditional,Kazak,Beige,Brown,tufted,Wool,1,6804317576,0,943.31
+716,14677,2023-01-04,Dalyn,Ljubljana,402193,4x6,4,396.82,0.0,396.82,Traditional,Geometric,Gold,Brown,HM,Wool,1,1361405918,1,2032.4199999999998
+717,14677,2024-06-29,Couristan,Valletta,370091,12x15,12,1866.24,230.64,1635.6,Traditional,Oushak,Ivory,Navy,MM,Wool,1,1361405918,1,2032.4199999999998
+718,14678,2024-12-01,Rizzy,Vienna,428029,8x11,8,825.53,125.31,700.22,Traditional,Kazak,Gold,Navy,HM,Wool,1,2168691919,0,700.22
+719,14694,2022-07-28,Karastan,La Paz,834814,8x10,8,708.75,118.95,589.8,Traditional,Medallion,Blue,Brown,tufted,Wool,0,1464859061,1,589.8
+720,14697,2024-04-09,PersianWeavers,Islamabad,427268,6'7x9'6,6,461.3,0.0,461.3,Contemporary,Geometric,Taupe,Ivory,Printed,Polyester,1,1663242429,1,461.3
+721,14700,2022-08-04,OrientalWeavers,Ulaanbaatar,817268,6'7x9'6,6,460.23,0.0,460.23,Transitional,Abstract,Navy,Red,HM,Wool,0,2291683061,1,460.23
+722,14701,2023-01-20,DynamicRugs,Majuro,750900,4x6,4,401.6,0.0,401.6,Traditional,Distressed,Gold,Gray,MM,Wool,1,5922473712,1,401.6
+723,14703,2023-04-02,Karastan,Lome,968288,6'7x9'6,6,456.14,0.0,456.14,Traditional,Medallion,Gold,Gold,MM,Polyester,1,3962270987,0,456.14
+724,14713,2024-11-22,Dalyn,Paramaribo,102106,6'7x9'6,6,445.77,0.0,445.77,Transitional,Geometric,Navy,Ivory,MM,Wool,0,2673340090,1,445.77
+725,14714,2023-03-31,PersianWeavers,Muscat,215739,4x6,4,328.83,0.0,328.83,Contemporary,Geometric,Red,Ivory,Printed,Polypropylene,1,4469020319,0,328.83
+726,14715,2024-08-04,OrientalWeavers,San Salvador,242821,8 Round,8,743.9,0.0,743.9,Traditional,Ornate,Green,Brown,HM,Wool,0,2149034795,1,743.9
+727,14717,2022-11-12,Orian,Mexico City,466338,8x11,8,827.08,0.0,827.08,Contemporary,Solid,Gray,Brown,HM,Wool,1,4630438361,1,827.08
+728,14719,2024-07-10,Orian,Luanda,173494,8x11,8,691.69,0.0,691.69,Traditional,Oushak,Red,Beige,MM,Polyester,1,7229086143,0,691.69
+729,14731,2023-03-02,Artisan,Monrovia,291010,12x15,12,1900.19,265.45,1634.74,Traditional,Kazak,Gold,Red,Printed,Polypropylene,1,5550334617,0,1634.74
+730,14738,2022-06-01,DynamicRugs,Oslo,840447,8x10,8,683.52,0.0,683.52,Contemporary,Solid,Gold,Green,tufted,Wool,0,3713387592,0,683.52
+731,14740,2024-01-15,Rizzy,Bogota,947850,6'7x9'6,6,653.23,116.42,536.81,Traditional,Ornate,Ivory,Gold,tufted,Wool,0,4320886760,1,536.81
+732,14741,2022-05-10,PersianWeavers,Tbilisi,176846,6'7x9'6,6,471.97,0.0,471.97,Traditional,Medallion,Ivory,Beige,MM,Polyester,0,6659661196,1,471.97
+733,14748,2024-03-13,OrientalWeavers,Nicosia,461150,8 Round,8,753.27,149.48,603.79,Traditional,Kazak,Red,Beige,MM,Wool,0,5032657445,1,603.79
+734,14752,2023-05-02,Couristan,Monaco,140690,8x10,8,731.8,0.0,731.8,Traditional,Ornate,Taupe,Brown,tufted,Wool,0,7776759745,1,731.8
+735,14756,2022-02-02,Kas,Thimphu,292167,6'7x9'6,6,519.58,0.0,519.58,Contemporary,Abstract,Gold,Navy,Printed,Polyester,1,1629583437,0,519.58
+736,14758,2023-10-22,Couristan,Monaco,565397,12x15,12,1872.4,326.41,1545.99,Traditional,Kazak,Green,Taupe,MM,Wool,0,1091959016,0,2641.12
+737,14758,2024-01-19,Couristan,Yaounde,357906,10x14,10,1218.32,123.19,1095.13,Traditional,Kazak,Gold,Green,MM,Wool,0,1091959016,1,2641.12
+738,14760,2023-08-10,Rizzy,Tegucigalpa,530883,10x14,10,1181.12,138.56,1042.56,Contemporary,Abstract,Beige,Taupe,HM,Wool,1,8726767958,0,1386.61
+739,14760,2023-10-16,Couristan,Dodoma,607320,4x6,4,344.05,0.0,344.05,Traditional,Kazak,Beige,Beige,tufted,Wool,1,8726767958,1,1386.61
+740,14770,2022-01-21,Kas,Rome,740279,4x6,4,371.42,0.0,371.42,Traditional,Medallion,Ivory,Green,HM,Wool,1,4343459642,1,371.42
+741,14771,2023-02-14,Dalyn,Suva,294165,8x10,8,772.58,120.07,652.51,Traditional,Medallion,Blue,Red,tufted,Wool,0,2039844716,0,999.86
+742,14771,2024-03-01,Rizzy,Bern,306257,4x6,4,347.35,0.0,347.35,Contemporary,Solid,Beige,Taupe,MM,Polypropylene,1,2039844716,1,999.86
+743,14776,2023-07-13,Couristan,Yaounde,949275,10x14,10,1145.09,143.67,1001.42,Transitional,Abstract,Beige,Red,MM,Polypropylene,1,1767026948,1,1001.42
+744,14779,2022-11-25,Dalyn,Tallinn,408478,12x15,12,1881.92,269.05,1612.87,Traditional,Kazak,Navy,Beige,HM,Wool,1,3998038809,1,1612.87
+745,14785,2022-10-09,Couristan,Panama City,381023,12x15,12,1942.72,332.23,1610.49,Traditional,Kazak,Brown,Blue,Printed,Polypropylene,0,5516669632,0,1610.49
+746,14787,2023-02-08,Artisan,Sofia,390442,6'7x9'6,6,478.42,0.0,478.42,Traditional,Distressed,Taupe,Blue,HM,Wool,0,4956172747,1,478.42
+747,14796,2022-04-23,PersianWeavers,Amman,826050,6'7x9'6,6,578.01,0.0,578.01,Traditional,Distressed,Ivory,Green,tufted,Wool,0,5028033095,0,578.01
+748,14800,2022-11-12,Rizzy,Vienna,543160,8 Round,8,799.02,101.87,697.15,Traditional,Medallion,Gray,Navy,HM,Wool,1,6249408942,0,697.15
+749,14801,2023-09-05,Kas,Thimphu,806341,12x15,12,1855.39,236.01,1619.38,Contemporary,Geometric,Gold,Taupe,tufted,Wool,0,6557007446,1,1619.38
+750,14807,2022-01-22,PersianWeavers,Bridgetown,703794,6'7x9'6,6,516.9,0.0,516.9,Traditional,Kazak,Green,Green,MM,Wool,1,6634889343,1,807.7
+751,14807,2024-03-04,Couristan,Yaounde,156358,4x6,4,290.8,0.0,290.8,Traditional,Solid,Brown,Green,Printed,Polyester,0,6634889343,0,807.7
+752,14809,2023-02-13,OrientalWeavers,Dushanbe,374947,4x6,4,391.83,0.0,391.83,Traditional,Kazak,Brown,Brown,HM,Wool,0,9240444127,0,391.83
+753,14814,2024-08-09,Karastan,Moroni,953586,6'7x9'6,6,431.24,0.0,431.24,Traditional,Solid,Beige,Taupe,Printed,Polyester,1,9584949203,0,431.24
+754,14815,2024-02-09,Rizzy,Kabul,264687,10x14,10,1127.69,182.12,945.57,Traditional,Solid,Red,Ivory,tufted,Wool,0,7667354439,0,945.57
+755,14832,2023-03-14,Kas,Managua,294294,4x6,4,359.5,0.0,359.5,Traditional,Kazak,Blue,Red,tufted,Wool,1,4623289870,1,359.5
+756,14835,2022-05-08,Artisan,Riyadh,389381,4x6,4,352.36,0.0,352.36,Contemporary,Distressed,Blue,Green,Printed,Polyester,0,9079828448,1,352.36
+757,14838,2023-10-26,Kas,Nairobi,346240,12x15,12,1914.53,272.3,1642.23,Traditional,Kazak,Gray,Gold,Printed,Polypropylene,0,9482075168,1,1642.23
+758,14841,2023-12-08,OrientalWeavers,Paris,740257,4x6,4,322.71,0.0,322.71,Traditional,Ornate,Green,Navy,MM,Polypropylene,1,6889123761,0,322.71
+759,14843,2024-02-15,Couristan,Dodoma,206169,12x15,12,1964.77,374.71,1590.06,Traditional,Ornate,Gray,Gray,Printed,Polyester,1,5793594206,1,1590.06
+760,14847,2024-10-11,PersianWeavers,Georgetown,306845,10x14,10,1142.58,144.11,998.47,Traditional,Medallion,Ivory,Brown,tufted,Wool,0,5289544102,1,998.47
+761,14848,2022-08-04,DynamicRugs,Kigali,311177,12x15,12,1850.64,187.22,1663.42,Traditional,Medallion,Brown,Taupe,Printed,Polyester,0,5450047187,0,1663.42
+762,14850,2023-03-29,PersianWeavers,Accra,441435,6'7x9'6,6,541.15,0.0,541.15,Traditional,Oushak,Green,Brown,HM,Wool,1,4663230314,0,541.15
+763,14851,2022-09-24,Kas,Managua,635320,10x14,10,1185.74,214.94,970.8,Transitional,Heriz,Gray,Gray,HM,Wool,1,5288756288,0,970.8
+764,14856,2024-06-11,Dalyn,Beijing,309990,12x15,12,2023.96,383.95,1640.01,Traditional,Kazak,Navy,Green,tufted,Wool,0,3501678326,0,1640.01
+765,14857,2023-07-20,DynamicRugs,Porto-Novo,738520,10x14,10,1229.8,227.72,1002.08,Contemporary,Solid,Green,Blue,tufted,Wool,0,6452225330,0,1992.73
+766,14857,2023-09-09,Rizzy,Brasilia,395976,10x14,10,1232.58,241.93,990.65,Traditional,Oushak,Navy,Green,HM,Wool,0,6452225330,0,1992.73
+767,14868,2024-04-21,Kas,Budapest,675967,12x15,12,1839.61,257.99,1581.62,Traditional,Kazak,Blue,Taupe,Printed,Polypropylene,0,1285788573,0,1581.62
+768,14877,2023-09-18,Couristan,Chisinau,901783,4x6,4,352.9,0.0,352.9,Transitional,Heriz,Ivory,Ivory,HM,Wool,0,3374146883,0,352.9
+769,14884,2023-09-12,Orian,Ashgabat,799223,4x6,4,446.57,0.0,446.57,Traditional,Geometric,Red,Brown,tufted,Wool,1,3741266040,1,446.57
+770,14891,2023-05-30,Orian,Quito,533985,10x14,10,1203.35,187.07,1016.28,Transitional,Distressed,Gray,Blue,tufted,Wool,0,2775348766,0,1016.28
+771,14892,2022-01-15,Rizzy,Conakry,297163,10x14,10,1215.08,195.47,1019.61,Traditional,Abstract,Gray,Brown,HM,Wool,1,2184953987,0,1991.99
+772,14892,2022-04-26,Orian,Abuja,900929,10x14,10,1181.68,209.3,972.38,Transitional,Heriz,Taupe,Green,tufted,Wool,0,2184953987,1,1991.99
+773,14900,2023-07-22,Artisan,Podgorica,931321,12x15,12,1905.76,218.99,1686.77,Contemporary,Solid,Navy,Navy,HM,Wool,0,5715103783,1,1686.77
+774,14901,2022-01-08,Orian,Luanda,830054,6'7x9'6,6,475.41,0.0,475.41,Transitional,Heriz,Blue,Beige,MM,Polyester,0,2710071137,0,475.41
+775,14903,2023-03-20,OrientalWeavers,Phnom Penh,165350,4x6,4,382.21,0.0,382.21,Transitional,Geometric,Taupe,Ivory,Printed,Polypropylene,1,1919015333,0,382.21
+776,14906,2023-01-31,PersianWeavers,Dakar,797663,12x15,12,1966.06,233.75,1732.31,Contemporary,Solid,Gray,Gold,MM,Polyester,1,7257331586,1,2244.02
+777,14906,2023-08-15,Dalyn,Ljubljana,716685,6'7x9'6,6,511.71,0.0,511.71,Contemporary,Heriz,Navy,Gray,tufted,Wool,1,7257331586,0,2244.02
+778,14909,2024-06-02,Couristan,Monaco,196298,6'7x9'6,6,525.98,0.0,525.98,Traditional,Oushak,Taupe,Gray,Printed,Polypropylene,0,7650369372,0,525.98
+779,14911,2022-01-08,Karastan,Tehran,871170,12x15,12,1944.61,262.15,1682.46,Traditional,Ornate,Ivory,Beige,Printed,Polyester,1,4587447350,1,3218.9
+780,14911,2023-04-20,Dalyn,Caracas,202691,12x15,12,1854.21,317.77,1536.44,Contemporary,Heriz,Taupe,Red,Printed,Polyester,0,4587447350,1,3218.9
+781,14922,2024-10-03,Rizzy,Brasilia,257690,10x14,10,1254.75,196.86,1057.89,Transitional,Abstract,Gold,Ivory,MM,Polyester,1,3900861932,1,1057.89
+782,14925,2024-03-20,DynamicRugs,Copenhagen,537530,12x15,12,1903.1,233.81,1669.29,Traditional,Kazak,Gold,Gold,HM,Wool,1,4666601179,0,1669.29
+783,14928,2023-08-01,Couristan,Baku,402543,6'7x9'6,6,419.24,0.0,419.24,Traditional,Solid,Blue,Ivory,HM,Wool,1,8192386304,0,419.24
+784,14940,2024-06-16,Orian,Mexico City,234785,8x10,8,877.27,132.99,744.28,Traditional,Oushak,Taupe,Blue,Printed,Polypropylene,1,8312902308,0,744.28
+785,14946,2023-11-25,Dalyn,Caracas,161103,12x15,12,1883.22,204.13,1679.09,Traditional,Medallion,Ivory,Navy,tufted,Wool,1,5192269071,0,1679.09
+786,14947,2022-08-29,Rizzy,Baghdad,804862,4x6,4,442.72,0.0,442.72,Traditional,Distressed,Navy,Brown,HM,Wool,1,8249678689,1,442.72
+787,14953,2023-07-06,DynamicRugs,Tripoli,781337,4x6,4,317.24,0.0,317.24,Contemporary,Distressed,Beige,Taupe,HM,Wool,1,6666466462,1,317.24
+788,14964,2023-02-03,Kas,Kingston,367661,8 Round,8,849.29,113.35,735.94,Traditional,Medallion,Navy,Brown,tufted,Wool,0,3730463636,0,735.94
+789,14965,2024-03-19,DynamicRugs,Djibouti,647514,12x15,12,1888.51,275.42,1613.09,Traditional,Medallion,Ivory,Gold,MM,Wool,1,5503775764,0,1613.09
+790,14966,2022-09-30,Rizzy,Warsaw,690370,12x15,12,1890.66,195.43,1695.23,Transitional,Abstract,Gold,Brown,Printed,Polypropylene,1,8012679282,0,1695.23
+791,14971,2024-09-30,Karastan,Kingstown,666345,12x15,12,1925.43,361.4,1564.03,Traditional,Oushak,Gold,Beige,Printed,Polypropylene,0,1331394753,1,1564.03
+792,14975,2023-05-29,Surya,Singapore,618723,10x14,10,1125.86,114.88,1010.98,Traditional,Distressed,Red,Beige,HM,Wool,1,5001057433,1,1010.98
+793,14977,2024-11-15,OrientalWeavers,Paris,201930,10x14,10,1227.82,124.38,1103.44,Traditional,Kazak,Taupe,Green,HM,Wool,1,2586002410,0,1103.44
+794,14984,2023-03-21,Surya,Singapore,818672,12x15,12,1935.08,277.3,1657.78,Traditional,Medallion,Red,Green,tufted,Wool,1,9268031029,1,1657.78
+795,14985,2022-12-13,Couristan,Algiers,308532,6'7x9'6,6,521.79,0.0,521.79,Transitional,Solid,Brown,Beige,tufted,Wool,0,2969884941,1,521.79
+796,14987,2023-07-15,Artisan,Damascus,374425,4x6,4,324.05,0.0,324.05,Traditional,Ornate,Gold,Gray,MM,Polyester,0,2519053852,0,324.05
+797,14988,2022-06-04,Kas,Guatemala City,231758,10x14,10,1216.78,235.98,980.8,Traditional,Ornate,Taupe,Brown,HM,Wool,0,4842602723,1,980.8
+798,14994,2023-03-26,OrientalWeavers,Ulaanbaatar,398581,10x14,10,1203.45,240.63,962.82,Transitional,Abstract,Brown,Gray,tufted,Wool,0,9160685619,1,962.82
+799,14998,2022-02-01,DynamicRugs,Santo Domingo,592319,6'7x9'6,6,470.96,0.0,470.96,Contemporary,Distressed,Gray,Navy,HM,Wool,1,7339045135,1,470.96
