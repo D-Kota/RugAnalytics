@@ -1,0 +1,27 @@
+Column Name	  Data Type	          Description
+Invoice#	  Integer	          Unique transaction ID shared by multiple records if multiple rugs were purchased together.
+Date	      Date	              The date of the transaction (ranging from 2022-2024).
+Vendor	      String	          The supplier/vendor of the rug (e.g., Karastan, Surya, Rizzy, Artisan, etc.). Each Collection is associated with a unique Vendor.
+Collection	  String	          The rug collection name, taken from real-world country capitals, uniquely assigned per Vendor.
+StyleNumber	  Integer	          The style number of the rug, uniquely identifying a design.
+SizeExact	  String	          The exact size of the rug (e.g., 8x11, 10x14, 8 Round, etc.).
+SizeGroup	  Integer	          The first integer from SizeExact, rounded to the closest foot. Represents the primary size group of the rug.
+RedPrice	  Float	              The retail price of the rug, based on SizeGroup averages.
+Discount	  Float	              The discount applied to RedPrice, between 10-20% but never less than $100. Discounts of exactly $100 were reset to $0.
+SalePrice	  Float	              The final selling price after applying the discount (RedPrice - Discount).
+StyleGroup	  String	          The primary style classification of the rug: Traditional, Transitional, or Contemporary.
+StyleGroup2	  String	          A secondary style category (Abstract, Solid, Geometric, Heriz, Oushak, Kazak, Medallion, Ornate, or Distressed). Traditional styles can
+                                  only hold Heriz, Oushak, Kazak, Medallion, Ornate.
+DomColor	  String	          The dominant color of the rug (e.g., Red, Blue, Beige, etc.).
+MinColor	  String	          The minor accent color of the rug (e.g., Navy, Gray, Taupe, etc.).
+ConstructionType	String	      The rug’s construction type: MM, HM, Printed, or Tufted.
+Material	  String	          The rug material (Polyester, Wool, Polypropylene, Cotton, or Silk). The material follows specific constraints based on the 
+                                  ConstructionType:
+-                                 MM can only have Polyester, Polypropylene, or Wool
+-                                 HM and Tufted can only have Wool
+-                                 Printed can only have Polypropylene or Polyester.
+Pad	          Integer(0/1)	      A binary flag indicating if a rug pad was included (1 = Yes, 0 = No).
+CustomerID	  Integer (10-digit)  A unique customer identifier for each transaction. Multiple transactions can belong to the same CustomerID, but a single Invoice# has
+                                  only one unique CustomerID.
+S/O	          Integer(0/1)	      A binary flag indicating if the rug was a special order (1 = Yes, 0 = No).
+InvoiceTotal  Float	              The total sum of SalePrice for all rugs in a given Invoice#.
