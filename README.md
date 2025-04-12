@@ -1,5 +1,5 @@
 # RugAnalytics
-Analytics projects for area rug retail store. 
+Repo showcasing real life projects for rug retail store. 
 
 Fake Data has been used to protect business and customer data.
 
