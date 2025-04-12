@@ -25,3 +25,4 @@ CustomerID	  Integer (10-digit)  A unique customer identifier for each transacti
                                   only one unique CustomerID.
 S/O	          Integer(0/1)	      A binary flag indicating if the rug was a special order (1 = Yes, 0 = No).
 InvoiceTotal  Float	              The total sum of SalePrice for all rugs in a given Invoice#.
+DSI           int                 The number of days that the rug was in inventory before being sold
